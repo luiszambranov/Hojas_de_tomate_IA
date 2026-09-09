@@ -14,21 +14,8 @@ dónde se usó, con qué propósito y cómo se verificó cada resultado.
 | Claude (Anthropic) | Generar las figuras del EDA (balance de clases, muestras por clase, color por clase, nitidez, matriz de confusión, ejemplos de error) | Se pidió un script de visualización con `matplotlib`/`seaborn` | Cada figura se revisó visualmente antes de incluirla en el notebook; se confirmó que las muestras mostradas correspondían efectivamente a la clase indicada |
 | Claude (Anthropic) | Redactar la estructura (ficha del dataset, diagnóstico de calidad, límites de representación) siguiendo el formato usado en el curso | Se compartió el notebook de ejemplo de la Semana 1 | El equipo redacto cada sección acorde con los resultados numéricos reales obtenidos (conteos, macro-F1, matriz de confusión)|
 
-## Decisiones humanas del equipo
-
-- Selección del proyecto (Proyecto 7, dataset de tomate) y del alcance del
-  Corte 1, según la guía del banco de proyectos del curso.
-- Definición del criterio de éxito por clase (macro-F1 ≥ 0.85, recall ≥ 0.80
-  por clase, seguimiento explícito del par tizón temprano/tardío).
-- Decisión de no filtrar todavía el 2% de imágenes de menor nitidez sin antes
-  inspeccionarlas manualmente.
-- Revisión y validación final de que el notebook se ejecuta de principio a
-  fin sin errores y de que todas las cifras reportadas provienen de una
-  ejecución real sobre el dataset, no de valores inventados.
-
-## Declaración
 
 Todos los resultados numéricos y las figuras de este corte fueron generados
 ejecutando el código sobre el dataset real descargado por el equipo. El
-apoyo de IA generativa se usó para redacción, estructuración del notebook y
-generación de código, no para inventar o simular resultados.
+apoyo de IA generativa se usó para estructuración del notebook y
+generación de partes de código.
