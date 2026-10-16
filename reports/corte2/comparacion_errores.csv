@@ -1,0 +1,32 @@
+rel_path,tipo,real,pred_baseline,pred_mejor
+val/Tomato___Bacterial_spot/c04f4774-dbfd-4ab0-98fd-437759b1b7f7___UF.GRC_BS_Lab Leaf 9114.JPG,corregido_por_mejor,Bact.,T.tardío,Bact.
+val/Tomato___Bacterial_spot/d64951f4-a447-44c7-80b7-1143a6e4a4e8___UF.GRC_BS_Lab Leaf 9190.JPG,corregido_por_mejor,Bact.,T.tardío,Bact.
+val/Tomato___Early_blight/26b721c9-94fd-4e19-bb7e-521238eb8a1b___RS_Erly.B 9380.JPG,corregido_por_mejor,T.temprano,T.tardío,T.temprano
+val/Tomato___Early_blight/32f37240-9abc-4a4d-8c62-37ee3e89d0b6___RS_Erly.B 6424.JPG,corregido_por_mejor,T.temprano,Bact.,T.temprano
+val/Tomato___Early_blight/498e5205-4421-4ec6-80b5-e4f79156b1c5___RS_Erly.B 7362.JPG,corregido_por_mejor,T.temprano,Bact.,T.temprano
+val/Tomato___Early_blight/9cb2abac-0c5b-4b49-ad84-d97805de271c___RS_Erly.B 7457.JPG,corregido_por_mejor,T.temprano,Bact.,T.temprano
+val/Tomato___Early_blight/ac57ab70-6d8c-4065-8bab-3a88b5239aea___RS_Erly.B 7408.JPG,corregido_por_mejor,T.temprano,Bact.,T.temprano
+val/Tomato___Early_blight/b2b63d7c-d8f7-44ff-b53e-6214ddbed5d9___RS_Erly.B 9509.JPG,corregido_por_mejor,T.temprano,T.tardío,T.temprano
+val/Tomato___Early_blight/d60c253c-b97e-4076-8eac-bae34e1bbdc9___RS_Erly.B 7749.JPG,corregido_por_mejor,T.temprano,Septoria,T.temprano
+val/Tomato___Late_blight/08816f81-65f4-4372-84e8-d27b67a193d5___GHLB2 Leaf 152.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/0a6203b9-ced0-4934-ae23-4a7d2e2e2fdd___RS_Late.B 6424.JPG,corregido_por_mejor,T.tardío,Septoria,T.tardío
+val/Tomato___Late_blight/1869d21d-5461-4378-bddb-8de766b836f7___GHLB Leaf 12 Day 6.JPG,corregido_por_mejor,T.tardío,Bact.,T.tardío
+val/Tomato___Late_blight/1b36d656-ee17-43a1-8f47-0d163c69f754___RS_Late.B 5605.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/697751e5-f4d4-448e-bf98-656ebfd01ba5___RS_Late.B 5180.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/846005e7-d4ad-49e4-bfce-3aefe50b44e0___RS_Late.B 5158.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/9176c69b-991a-4cd0-bfad-9742ad81a8b4___RS_Late.B 4989.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/a9e5eb70-1dc4-44ec-927a-4ac745c1ff31___RS_Late.B 5035.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/b2fb784b-5601-4b75-93b0-8dcaa7eaca6e___RS_Late.B 6419.JPG,corregido_por_mejor,T.tardío,Septoria,T.tardío
+val/Tomato___Late_blight/b5f3f7a5-26ab-4696-b94e-9f2d7c472254___RS_Late.B 6074.JPG,corregido_por_mejor,T.tardío,Moho,T.tardío
+val/Tomato___Late_blight/b9caae93-beaf-4587-ac29-b6db2f912cc8___RS_Late.B 6068.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/cf2e943e-c8d7-43eb-a137-72f6b67b187a___RS_Late.B 7192.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/d2619e9f-172d-4c42-8513-0ab522c02824___GHLB Leaf 2.2 Day 16.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/d4af5357-afc6-4a81-8d7c-bf8f947c3c91___RS_Late.B 6908.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Late_blight/d67013bf-2462-4626-a4fa-e352e7d3008b___GHLB2ES Leaf 139.1.JPG,corregido_por_mejor,T.tardío,Sana,T.tardío
+val/Tomato___Late_blight/df95ecc8-c074-4d29-8571-0fae8d2a620a___RS_Late.B 7191.JPG,corregido_por_mejor,T.tardío,Bact.,T.tardío
+val/Tomato___Late_blight/fbbe43eb-7d70-4053-97ac-908fb9af1a6f___RS_Late.B 6587.JPG,corregido_por_mejor,T.tardío,T.temprano,T.tardío
+val/Tomato___Leaf_Mold/fec6ddb1-599d-4de0-905c-c4e526021314___Crnl_L.Mold 8895.JPG,corregido_por_mejor,Moho,T.tardío,Moho
+val/Tomato___Septoria_leaf_spot/0b23b869-cfa6-40d7-a683-f4637d91ebff___Matt.S_CG 1286.JPG,corregido_por_mejor,Septoria,Bact.,Septoria
+val/Tomato___Septoria_leaf_spot/47540ec0-31bf-4ad5-84e9-601d0d0829e4___Matt.S_CG 6002.JPG,corregido_por_mejor,Septoria,T.tardío,Septoria
+val/Tomato___Septoria_leaf_spot/abb40b01-9ffd-4dd8-b46a-371a115110ea___JR_Sept.L.S 8358.JPG,corregido_por_mejor,Septoria,T.tardío,Septoria
+val/Tomato___healthy/4959798b-5c9b-4f8e-b0a0-3778259614b1___CG1.JPG,corregido_por_mejor,Sana,T.tardío,Sana

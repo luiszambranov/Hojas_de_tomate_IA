@@ -1,0 +1,159 @@
+{
+  "name": "efficientnet_b0_frozen_lr0.001",
+  "family": "transfer_frozen",
+  "description": "efficientnet_b0 (frozen), lr=0.001, img=224",
+  "config": {
+    "model": "efficientnet_b0",
+    "mode": "frozen",
+    "epochs": 10,
+    "lr": 0.001,
+    "wd": 0.0001,
+    "batch": 32,
+    "img_size": 224,
+    "patience": 4,
+    "workers": 2,
+    "name": "efficientnet_b0_frozen_lr0.001",
+    "no_amp": false,
+    "no_pretrained": false,
+    "limit": 0
+  },
+  "params": 4015234,
+  "trainable_params": 7686,
+  "size_mb": 16.06,
+  "best_epoch": 8,
+  "epochs_run": 10,
+  "train_time_s": 355.6,
+  "infer_ms_per_img": 13.83,
+  "infer_note": "batch 1 en cuda (NVIDIA GeForce GTX 1650)",
+  "train": {
+    "n": 4586,
+    "accuracy": 0.936109899694723,
+    "macro_f1": 0.9360652372934682,
+    "per_class": {
+      "Tomato___Bacterial_spot": {
+        "precision": 0.9427828348504551,
+        "recall": 0.9440104166666666,
+        "f1": 0.9433962264150944,
+        "support": 768
+      },
+      "Tomato___Early_blight": {
+        "precision": 0.8668310727496917,
+        "recall": 0.9225721784776902,
+        "f1": 0.8938334392879848,
+        "support": 762
+      },
+      "Tomato___Late_blight": {
+        "precision": 0.9353507565337001,
+        "recall": 0.891218872870249,
+        "f1": 0.912751677852349,
+        "support": 763
+      },
+      "Tomato___Leaf_Mold": {
+        "precision": 0.958005249343832,
+        "recall": 0.9605263157894737,
+        "f1": 0.9592641261498029,
+        "support": 760
+      },
+      "Tomato___Septoria_leaf_spot": {
+        "precision": 0.947945205479452,
+        "recall": 0.9010416666666666,
+        "f1": 0.9238985313751669,
+        "support": 768
+      },
+      "Tomato___healthy": {
+        "precision": 0.9695044472681067,
+        "recall": 0.9973856209150327,
+        "f1": 0.9832474226804123,
+        "support": 765
+      }
+    }
+  },
+  "val": {
+    "full": {
+      "n": 981,
+      "accuracy": 0.9215086646279307,
+      "macro_f1": 0.9209626942447534,
+      "per_class": {
+        "Tomato___Bacterial_spot": {
+          "precision": 0.9235294117647059,
+          "recall": 0.9573170731707317,
+          "f1": 0.9401197604790419,
+          "support": 164
+        },
+        "Tomato___Early_blight": {
+          "precision": 0.8658536585365854,
+          "recall": 0.8711656441717791,
+          "f1": 0.8685015290519877,
+          "support": 163
+        },
+        "Tomato___Late_blight": {
+          "precision": 0.9079754601226994,
+          "recall": 0.9079754601226994,
+          "f1": 0.9079754601226994,
+          "support": 163
+        },
+        "Tomato___Leaf_Mold": {
+          "precision": 0.9390243902439024,
+          "recall": 0.9447852760736196,
+          "f1": 0.9418960244648318,
+          "support": 163
+        },
+        "Tomato___Septoria_leaf_spot": {
+          "precision": 0.9328859060402684,
+          "recall": 0.8475609756097561,
+          "f1": 0.8881789137380192,
+          "support": 164
+        },
+        "Tomato___healthy": {
+          "precision": 0.9590643274853801,
+          "recall": 1.0,
+          "f1": 0.9791044776119403,
+          "support": 164
+        }
+      }
+    },
+    "clean": {
+      "n": 909,
+      "accuracy": 0.9240924092409241,
+      "macro_f1": 0.9227068204331094,
+      "per_class": {
+        "Tomato___Bacterial_spot": {
+          "precision": 0.9235294117647059,
+          "recall": 0.9573170731707317,
+          "f1": 0.9401197604790419,
+          "support": 164
+        },
+        "Tomato___Early_blight": {
+          "precision": 0.855072463768116,
+          "recall": 0.8805970149253731,
+          "f1": 0.8676470588235294,
+          "support": 134
+        },
+        "Tomato___Late_blight": {
+          "precision": 0.925,
+          "recall": 0.9079754601226994,
+          "f1": 0.9164086687306502,
+          "support": 163
+        },
+        "Tomato___Leaf_Mold": {
+          "precision": 0.9230769230769231,
+          "recall": 0.9523809523809523,
+          "f1": 0.9375,
+          "support": 126
+        },
+        "Tomato___Septoria_leaf_spot": {
+          "precision": 0.9517241379310345,
+          "recall": 0.8466257668711656,
+          "f1": 0.8961038961038961,
+          "support": 163
+        },
+        "Tomato___healthy": {
+          "precision": 0.9578313253012049,
+          "recall": 1.0,
+          "f1": 0.9784615384615385,
+          "support": 159
+        }
+      }
+    }
+  }
+}

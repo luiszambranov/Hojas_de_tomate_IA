@@ -1,0 +1,11 @@
+# Entorno y caché
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset (se descarga aparte, ver README)
+data/Dataset/
+Processed Tomato Leaf Disease Image Dataset with T/
+
+# Pesos entrenados (pesados; se regeneran con src/c2_run_benchmark.py)
+models/

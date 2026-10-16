@@ -1,5 +1,6 @@
 numpy
 pandas
+scipy
 scikit-learn
 scikit-image
 opencv-python-headless
@@ -9,3 +10,7 @@ jupyter
 nbformat
 nbclient
 Pillow
+# Corte 2 — PyTorch con CUDA (GPU NVIDIA). Instalar ANTES con:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision

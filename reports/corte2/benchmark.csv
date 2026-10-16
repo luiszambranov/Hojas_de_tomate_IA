@@ -1,0 +1,10 @@
+run,modelo,familia,params_M,entrenables_M,tiempo_entreno_min,ms_por_imagen,mejor_epoca,train_macroF1,val_macroF1_completo,val_macroF1_limpio,inflado_por_fuga,brecha_train_val,val_acc_limpio,F1_T.temprano,F1_T.tardío,recall_Sana
+resnet18_finetune_lr0.0003,ResNet-18 fine-tune,transfer_finetune,11.18,11.18,7.35,4.249,15.0,1.0,0.999,0.9989,0.0001,0.0011,0.9989,0.9963,0.9969,1.0
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 fine-tune,transfer_finetune,4.21,4.21,7.82,11.255,10.0,0.9998,0.998,0.9978,0.0002,0.002,0.9978,1.0,0.9969,1.0
+efficientnet_b0_finetune_lr0.0003,EfficientNet-B0 fine-tune (lr 3e-4),transfer_finetune,4.015,4.015,13.67,10.665,11.0,0.9993,0.9969,0.9978,-0.0009,0.0015,0.9978,0.9963,0.9938,1.0
+efficientnet_b0_finetune_lr0.0001,EfficientNet-B0 fine-tune (lr 1e-4),transfer_finetune,4.015,4.015,11.78,18.025,14.0,0.9998,0.9969,0.9968,0.0001,0.003,0.9967,0.9963,0.9908,1.0
+smallcnn_scratch_lr0.001,CNN pequeña (desde cero),cnn_scratch,1.175,1.175,21.77,3.286,27.0,0.9902,0.9796,0.9783,0.0013,0.0119,0.978,0.9627,0.9605,0.9874
+svm_hsv_lbp,SVM HSV+LBP (Corte 1),clásico,0.093,0.093,0.0,0.13,,0.9978,0.9671,0.9647,0.0024,0.0331,0.9648,0.9304,0.9177,0.9937
+mobilenet_v3_large_frozen_lr0.001,MobileNetV3 congelado,transfer_frozen,4.21,1.238,5.58,15.438,8.0,0.9743,0.9594,0.9626,-0.0033,0.0117,0.9626,0.9513,0.9477,0.9686
+efficientnet_b0_frozen_lr0.001,EfficientNet-B0 congelado,transfer_frozen,4.015,0.008,5.93,13.83,8.0,0.9361,0.921,0.9227,-0.0017,0.0134,0.9241,0.8676,0.9164,1.0
+dummy,Dummy (mayoritaria),referencia,0.0,0.0,0.0,0.001,,0.0478,0.0477,0.0509,-0.0032,-0.0031,0.1804,0.0,0.0,0.0

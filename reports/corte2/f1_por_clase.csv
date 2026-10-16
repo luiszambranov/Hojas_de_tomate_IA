@@ -1,0 +1,10 @@
+modelo,Bact.,T.temprano,T.tardío,Moho,Septoria,Sana
+ResNet-18 fine-tune,1.0,0.9963,0.9969,1.0,1.0,1.0
+MobileNetV3 fine-tune,1.0,1.0,0.9969,0.996,0.9969,0.9969
+EfficientNet-B0 fine-tune (lr 3e-4),0.997,0.9963,0.9938,1.0,1.0,1.0
+EfficientNet-B0 fine-tune (lr 1e-4),1.0,0.9963,0.9908,1.0,0.9939,1.0
+CNN pequeña (desde cero),0.9816,0.9627,0.9605,0.996,0.9785,0.9905
+SVM HSV+LBP (Corte 1),0.973,0.9304,0.9177,0.9921,0.9816,0.9937
+MobileNetV3 congelado,0.9753,0.9513,0.9477,0.9683,0.9524,0.9809
+EfficientNet-B0 congelado,0.9401,0.8676,0.9164,0.9375,0.8961,0.9785
+Dummy (mayoritaria),0.3057,0.0,0.0,0.0,0.0,0.0

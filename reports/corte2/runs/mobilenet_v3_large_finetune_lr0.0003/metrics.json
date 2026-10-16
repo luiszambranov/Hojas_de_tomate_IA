@@ -1,0 +1,159 @@
+{
+  "name": "mobilenet_v3_large_finetune_lr0.0003",
+  "family": "transfer_finetune",
+  "description": "mobilenet_v3_large (finetune), lr=0.0003, img=224",
+  "config": {
+    "model": "mobilenet_v3_large",
+    "mode": "finetune",
+    "epochs": 15,
+    "lr": 0.0003,
+    "wd": 0.0001,
+    "batch": 32,
+    "img_size": 224,
+    "patience": 5,
+    "workers": 2,
+    "name": "mobilenet_v3_large_finetune_lr0.0003",
+    "no_amp": false,
+    "no_pretrained": false,
+    "limit": 0
+  },
+  "params": 4209718,
+  "trainable_params": 4209718,
+  "size_mb": 16.84,
+  "best_epoch": 10,
+  "epochs_run": 15,
+  "train_time_s": 469.1,
+  "infer_ms_per_img": 11.255,
+  "infer_note": "batch 1 en cuda (NVIDIA GeForce GTX 1650)",
+  "train": {
+    "n": 4586,
+    "accuracy": 0.9997819450501526,
+    "macro_f1": 0.9997818423442583,
+    "per_class": {
+      "Tomato___Bacterial_spot": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 768
+      },
+      "Tomato___Early_blight": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 762
+      },
+      "Tomato___Late_blight": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 763
+      },
+      "Tomato___Leaf_Mold": {
+        "precision": 1.0,
+        "recall": 0.9986842105263158,
+        "f1": 0.9993416721527321,
+        "support": 760
+      },
+      "Tomato___Septoria_leaf_spot": {
+        "precision": 0.9986996098829649,
+        "recall": 1.0,
+        "f1": 0.9993493819128172,
+        "support": 768
+      },
+      "Tomato___healthy": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 765
+      }
+    }
+  },
+  "val": {
+    "full": {
+      "n": 981,
+      "accuracy": 0.9979612640163099,
+      "macro_f1": 0.9979611877484218,
+      "per_class": {
+        "Tomato___Bacterial_spot": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 164
+        },
+        "Tomato___Early_blight": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 163
+        },
+        "Tomato___Late_blight": {
+          "precision": 1.0,
+          "recall": 0.9938650306748467,
+          "f1": 0.9969230769230769,
+          "support": 163
+        },
+        "Tomato___Leaf_Mold": {
+          "precision": 1.0,
+          "recall": 0.9938650306748467,
+          "f1": 0.9969230769230769,
+          "support": 163
+        },
+        "Tomato___Septoria_leaf_spot": {
+          "precision": 0.9939393939393939,
+          "recall": 1.0,
+          "f1": 0.9969604863221885,
+          "support": 164
+        },
+        "Tomato___healthy": {
+          "precision": 0.9939393939393939,
+          "recall": 1.0,
+          "f1": 0.9969604863221885,
+          "support": 164
+        }
+      }
+    },
+    "clean": {
+      "n": 909,
+      "accuracy": 0.9977997799779978,
+      "macro_f1": 0.9977910188273795,
+      "per_class": {
+        "Tomato___Bacterial_spot": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 164
+        },
+        "Tomato___Early_blight": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 134
+        },
+        "Tomato___Late_blight": {
+          "precision": 1.0,
+          "recall": 0.9938650306748467,
+          "f1": 0.9969230769230769,
+          "support": 163
+        },
+        "Tomato___Leaf_Mold": {
+          "precision": 1.0,
+          "recall": 0.9920634920634921,
+          "f1": 0.9960159362549801,
+          "support": 126
+        },
+        "Tomato___Septoria_leaf_spot": {
+          "precision": 0.9939024390243902,
+          "recall": 1.0,
+          "f1": 0.9969418960244648,
+          "support": 163
+        },
+        "Tomato___healthy": {
+          "precision": 0.99375,
+          "recall": 1.0,
+          "f1": 0.9968652037617555,
+          "support": 159
+        }
+      }
+    }
+  }
+}

@@ -1,10 +1,12 @@
 # Bitácora de uso de IA generativa
 
-Proyecto 7 — Diagnóstico visual de enfermedades en hojas de tomate. Corte 1.
+Proyecto 7 — Diagnóstico visual de enfermedades en hojas de tomate. Cortes 1 y 2.
 
 El uso de IA generativa está permitido como apoyo, siempre que sea
 transparente, verificado y adaptado por el equipo. Esta bitácora documenta
 dónde se usó, con qué propósito y cómo se verificó cada resultado.
+
+## Corte 1
 
 | Herramienta usada | Propósito | Interacción relevante | ¿Cómo se verificó o adaptó la respuesta? |
 |---|---|---|---|
@@ -19,3 +21,18 @@ Todos los resultados numéricos y las figuras de este corte fueron generados
 ejecutando el código sobre el dataset real descargado por el equipo. El
 apoyo de IA generativa se usó para estructuración del notebook y
 generación de partes de código.
+
+
+## Corte 2
+
+| Herramienta usada | Propósito | Interacción relevante | ¿Cómo se verificó o adaptó la respuesta? |
+|---|---|---|---|
+| Claude (Anthropic) | Interpretar la guía del Corte 2 y el cuaderno del miniproyecto de la Semana 2 | Se compartieron ambos documentos y se pidió un plan de entrega alineado con la rúbrica | El equipo revisó el plan contra la guía del banco de proyectos antes de ejecutar nada |
+| Claude (Anthropic) | Detectar problemas de partición en el dataset | Se pidió revisar la carpeta del dataset; la IA detectó copias aumentadas (`..._original_...`) de la misma hoja repartidas entre train, val y test | Se confirmó con el índice completo (72 imágenes contaminadas en val, 82 en test) y se inspeccionaron nombres de archivo manualmente |
+| Claude (Anthropic) | Configurar el entorno (PyTorch + CUDA en Windows, GTX 1650) | Instalación del entorno virtual, errores de política de ejecución, `WinError 1455` y pérdidas NaN con float16 | Cada solución se probó en el PC del equipo; se dejó la detección automática de GTX 16xx en el código |
+| Claude (Anthropic) | Escribir el pipeline del benchmark (`src/c2_*.py`) | Se pidió un pipeline reproducible: índice con fuga, baselines, CNN desde cero y transfer learning, early stopping con validación limpia, augmentación solo en train, análisis estadístico | El código se probó con un dataset sintético y luego se ejecutó completo en el PC del equipo (≈2 h); las métricas se leen de los archivos generados |
+| Claude (Anthropic) | Redactar el borrador del cuaderno del Corte 2 | Se pidió responder las preguntas de reflexión de las 6 secciones con base en los resultados | Todas las cifras del cuaderno se calculan en celdas a partir de `reports/corte2/`. **Pendiente del equipo antes de entregar:** revisar las galerías de errores y las respuestas escritas y ajustarlas con sus propias palabras |
+
+Todo el entrenamiento se ejecutó en el PC del equipo con el dataset real. La IA no
+tuvo acceso al conjunto de test para tomar decisiones (solo a sus nombres de archivo,
+para documentar la fuga).

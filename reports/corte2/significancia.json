@@ -1,0 +1,20 @@
+{
+  "baseline": "svm_hsv_lbp",
+  "mejor": "resnet18_finetune_lr0.0003",
+  "n_val_limpia": 909,
+  "macroF1_baseline": 0.9647444497125295,
+  "macroF1_mejor": 0.9988676008006863,
+  "IC95_baseline": [
+    0.951887959802699,
+    0.9757158588325322
+  ],
+  "IC95_mejor": [
+    0.9959327252348273,
+    1.0
+  ],
+  "errores_baseline": 32,
+  "errores_mejor": 1,
+  "corregidos_por_mejor": 31,
+  "nuevos_errores_del_mejor": 0,
+  "mcnemar_p": 9.313225746154785e-10
+}

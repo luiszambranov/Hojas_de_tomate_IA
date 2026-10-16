@@ -1,0 +1,140 @@
+{
+  "name": "dummy",
+  "family": "referencia",
+  "description": "Predice siempre la clase más frecuente de train",
+  "params": 0,
+  "train_time_s": 0.02,
+  "infer_ms_per_img": 0.001,
+  "infer_note": "solo el clasificador; la extracción de features no está incluida",
+  "train": {
+    "n": 4586,
+    "accuracy": 0.16746620148277366,
+    "macro_f1": 0.04781471796787449,
+    "per_class": {
+      "Tomato___Bacterial_spot": {
+        "precision": 0.16746620148277366,
+        "recall": 1.0,
+        "f1": 0.28688830780724695,
+        "support": 768
+      },
+      "Tomato___Early_blight": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 762
+      },
+      "Tomato___Late_blight": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 763
+      },
+      "Tomato___Leaf_Mold": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 760
+      },
+      "Tomato___Septoria_leaf_spot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 768
+      },
+      "Tomato___healthy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 765
+      }
+    }
+  },
+  "val": {
+    "full": {
+      "n": 981,
+      "accuracy": 0.1671763506625892,
+      "macro_f1": 0.047743813682678306,
+      "per_class": {
+        "Tomato___Bacterial_spot": {
+          "precision": 0.1671763506625892,
+          "recall": 1.0,
+          "f1": 0.28646288209606985,
+          "support": 164
+        },
+        "Tomato___Early_blight": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 163
+        },
+        "Tomato___Late_blight": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 163
+        },
+        "Tomato___Leaf_Mold": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 163
+        },
+        "Tomato___Septoria_leaf_spot": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 164
+        },
+        "Tomato___healthy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 164
+        }
+      }
+    },
+    "clean": {
+      "n": 909,
+      "accuracy": 0.18041804180418042,
+      "macro_f1": 0.05094749922336129,
+      "per_class": {
+        "Tomato___Bacterial_spot": {
+          "precision": 0.18041804180418042,
+          "recall": 1.0,
+          "f1": 0.30568499534016774,
+          "support": 164
+        },
+        "Tomato___Early_blight": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 134
+        },
+        "Tomato___Late_blight": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 163
+        },
+        "Tomato___Leaf_Mold": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 126
+        },
+        "Tomato___Septoria_leaf_spot": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 163
+        },
+        "Tomato___healthy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 159
+        }
+      }
+    }
+  }
+}
