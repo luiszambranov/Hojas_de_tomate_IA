@@ -1,0 +1,7 @@
+entrada,modelo,n,conf_media,pct_conf_mayor_umbral,clase_mas_predicha
+ruido uniforme,ResNet-18 FT (modelo final),50,0.5962,0.0,Septoria (50/50)
+ruido uniforme,MobileNetV3 FT (alternativa),50,0.4766,0.0,Sana (50/50)
+color plano,ResNet-18 FT (modelo final),50,0.8915,0.88,T.tardío (34/50)
+color plano,MobileNetV3 FT (alternativa),50,0.94,0.94,T.tardío (47/50)
+verde plano,ResNet-18 FT (modelo final),50,0.9855,1.0,T.tardío (50/50)
+verde plano,MobileNetV3 FT (alternativa),50,0.9998,1.0,T.tardío (50/50)

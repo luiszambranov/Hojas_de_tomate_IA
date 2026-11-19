@@ -1,0 +1,442 @@
+{
+  "fecha": "2026-11-18T21:06:31",
+  "n_test": 990,
+  "n_test_limpio": 908,
+  "modelo_final": "resnet18_finetune_lr0.0003",
+  "modelos": {
+    "dummy": {
+      "test": {
+        "full": {
+          "n": 990,
+          "accuracy": 0.16767676767676767,
+          "macro_f1": 0.04786620530565167,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 0.16767676767676767,
+              "recall": 1.0,
+              "f1": 0.28719723183391005,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 164
+            },
+            "Tomato___Late_blight": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 165
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 164
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 166
+            },
+            "Tomato___healthy": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 165
+            }
+          }
+        },
+        "clean": {
+          "n": 908,
+          "accuracy": 0.1828193832599119,
+          "macro_f1": 0.051520794537554315,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 0.1828193832599119,
+              "recall": 1.0,
+              "f1": 0.3091247672253259,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 132
+            },
+            "Tomato___Late_blight": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 163
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 126
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 163
+            },
+            "Tomato___healthy": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 158
+            }
+          }
+        }
+      },
+      "ic95_macro_f1_limpio": [
+        0.045900601456157014,
+        0.05717761557177616
+      ],
+      "errores_limpio": 742,
+      "val_macro_f1_limpio_c2": 0.05094749922336129,
+      "val_macro_f1_completo_c2": 0.047743813682678306
+    },
+    "svm_hsv_lbp": {
+      "test": {
+        "full": {
+          "n": 990,
+          "accuracy": 0.9686868686868687,
+          "macro_f1": 0.9687611975277779,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 0.9760479041916168,
+              "recall": 0.9819277108433735,
+              "f1": 0.978978978978979,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.9352941176470588,
+              "recall": 0.9695121951219512,
+              "f1": 0.9520958083832335,
+              "support": 164
+            },
+            "Tomato___Late_blight": {
+              "precision": 0.9272727272727272,
+              "recall": 0.9272727272727272,
+              "f1": 0.9272727272727272,
+              "support": 165
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 1.0,
+              "recall": 0.975609756097561,
+              "f1": 0.9876543209876543,
+              "support": 164
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 0.9754601226993865,
+              "recall": 0.9578313253012049,
+              "f1": 0.9665653495440729,
+              "support": 166
+            },
+            "Tomato___healthy": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 165
+            }
+          }
+        },
+        "clean": {
+          "n": 908,
+          "accuracy": 0.9669603524229075,
+          "macro_f1": 0.9671124058153282,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 0.9760479041916168,
+              "recall": 0.9819277108433735,
+              "f1": 0.978978978978979,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.920863309352518,
+              "recall": 0.9696969696969697,
+              "f1": 0.9446494464944649,
+              "support": 132
+            },
+            "Tomato___Late_blight": {
+              "precision": 0.9320987654320988,
+              "recall": 0.9263803680981595,
+              "f1": 0.9292307692307692,
+              "support": 163
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 1.0,
+              "recall": 0.9682539682539683,
+              "f1": 0.9838709677419355,
+              "support": 126
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 0.975,
+              "recall": 0.9570552147239264,
+              "f1": 0.9659442724458205,
+              "support": 163
+            },
+            "Tomato___healthy": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 158
+            }
+          }
+        }
+      },
+      "ic95_macro_f1_limpio": [
+        0.9557569885675447,
+        0.9781428661034729
+      ],
+      "errores_limpio": 30,
+      "val_macro_f1_limpio_c2": 0.9647444497125295,
+      "val_macro_f1_completo_c2": 0.9671279110073168
+    },
+    "resnet18_finetune_lr0.0003": {
+      "test": {
+        "full": {
+          "n": 990,
+          "accuracy": 0.9959595959595959,
+          "macro_f1": 0.9959472213193213,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.9879518072289156,
+              "recall": 1.0,
+              "f1": 0.9939393939393939,
+              "support": 164
+            },
+            "Tomato___Late_blight": {
+              "precision": 1.0,
+              "recall": 0.9818181818181818,
+              "f1": 0.9908256880733946,
+              "support": 165
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 0.9879518072289156,
+              "recall": 1.0,
+              "f1": 0.9939393939393939,
+              "support": 164
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 1.0,
+              "recall": 0.9939759036144579,
+              "f1": 0.9969788519637462,
+              "support": 166
+            },
+            "Tomato___healthy": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 165
+            }
+          }
+        },
+        "clean": {
+          "n": 908,
+          "accuracy": 0.9955947136563876,
+          "macro_f1": 0.9953737230809949,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.9850746268656716,
+              "recall": 1.0,
+              "f1": 0.9924812030075187,
+              "support": 132
+            },
+            "Tomato___Late_blight": {
+              "precision": 1.0,
+              "recall": 0.9815950920245399,
+              "f1": 0.9907120743034056,
+              "support": 163
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 0.984375,
+              "recall": 1.0,
+              "f1": 0.9921259842519685,
+              "support": 126
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 1.0,
+              "recall": 0.9938650306748467,
+              "f1": 0.9969230769230769,
+              "support": 163
+            },
+            "Tomato___healthy": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 158
+            }
+          }
+        }
+      },
+      "ic95_macro_f1_limpio": [
+        0.9904766659144454,
+        0.9988978573049371
+      ],
+      "errores_limpio": 4,
+      "ece_limpio": 0.004964645016560996,
+      "selectiva_limpio": {
+        "umbral": 0.7,
+        "cobertura": 0.9977973568281938,
+        "no_concluyentes": 2,
+        "accuracy_aceptadas": 0.9966887417218543,
+        "errores_con_confianza_alta": 3,
+        "errores_totales": 4
+      },
+      "val_macro_f1_limpio_c2": 0.9988676008006863,
+      "val_macro_f1_completo_c2": 0.9989774954912569,
+      "selectiva_val_limpio": {
+        "umbral": 0.7,
+        "cobertura": 0.9955995599559956,
+        "no_concluyentes": 4,
+        "accuracy_aceptadas": 1.0,
+        "errores_con_confianza_alta": 0,
+        "errores_totales": 1
+      }
+    },
+    "mobilenet_v3_large_finetune_lr0.0003": {
+      "test": {
+        "full": {
+          "n": 990,
+          "accuracy": 0.9959595959595959,
+          "macro_f1": 0.9959498995111359,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 1.0,
+              "recall": 0.9939759036144579,
+              "f1": 0.9969788519637462,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.9939393939393939,
+              "recall": 1.0,
+              "f1": 0.9969604863221885,
+              "support": 164
+            },
+            "Tomato___Late_blight": {
+              "precision": 0.9939759036144579,
+              "recall": 1.0,
+              "f1": 0.9969788519637462,
+              "support": 165
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 1.0,
+              "recall": 0.9817073170731707,
+              "f1": 0.9907692307692307,
+              "support": 164
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 0.9880952380952381,
+              "recall": 1.0,
+              "f1": 0.9940119760479041,
+              "support": 166
+            },
+            "Tomato___healthy": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 165
+            }
+          }
+        },
+        "clean": {
+          "n": 908,
+          "accuracy": 0.9955947136563876,
+          "macro_f1": 0.9953335682226427,
+          "per_class": {
+            "Tomato___Bacterial_spot": {
+              "precision": 1.0,
+              "recall": 0.9939759036144579,
+              "f1": 0.9969788519637462,
+              "support": 166
+            },
+            "Tomato___Early_blight": {
+              "precision": 0.9924812030075187,
+              "recall": 1.0,
+              "f1": 0.9962264150943396,
+              "support": 132
+            },
+            "Tomato___Late_blight": {
+              "precision": 0.9939024390243902,
+              "recall": 1.0,
+              "f1": 0.9969418960244648,
+              "support": 163
+            },
+            "Tomato___Leaf_Mold": {
+              "precision": 1.0,
+              "recall": 0.9761904761904762,
+              "f1": 0.9879518072289156,
+              "support": 126
+            },
+            "Tomato___Septoria_leaf_spot": {
+              "precision": 0.9878787878787879,
+              "recall": 1.0,
+              "f1": 0.9939024390243902,
+              "support": 163
+            },
+            "Tomato___healthy": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 158
+            }
+          }
+        }
+      },
+      "ic95_macro_f1_limpio": [
+        0.9903094736202939,
+        0.9989988188117342
+      ],
+      "errores_limpio": 4,
+      "ece_limpio": 0.00362163919971903,
+      "selectiva_limpio": {
+        "umbral": 0.7,
+        "cobertura": 0.9977973568281938,
+        "no_concluyentes": 2,
+        "accuracy_aceptadas": 0.9977924944812362,
+        "errores_con_confianza_alta": 2,
+        "errores_totales": 4
+      },
+      "val_macro_f1_limpio_c2": 0.9977910188273795,
+      "val_macro_f1_completo_c2": 0.9979611877484218,
+      "selectiva_val_limpio": {
+        "umbral": 0.7,
+        "cobertura": 0.9955995599559956,
+        "no_concluyentes": 4,
+        "accuracy_aceptadas": 1.0,
+        "errores_con_confianza_alta": 0,
+        "errores_totales": 2
+      }
+    }
+  },
+  "mcnemar_limpio": {
+    "final_vs_svm": {
+      "a_acierta_b_falla": 30,
+      "a_falla_b_acierta": 4,
+      "p_value": 6.16488978266716e-06
+    },
+    "final_vs_alt": {
+      "a_acierta_b_falla": 4,
+      "a_falla_b_acierta": 4,
+      "p_value": 1.0
+    }
+  }
+}

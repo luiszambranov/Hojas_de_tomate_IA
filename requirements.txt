@@ -14,3 +14,5 @@ Pillow
 #   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
 torch
 torchvision
+# Corte 3 — demo interactiva (opcional; la inferencia por terminal no la necesita)
+gradio

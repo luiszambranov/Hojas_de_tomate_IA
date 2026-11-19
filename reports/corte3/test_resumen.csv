@@ -1,0 +1,5 @@
+run,modelo,test_macroF1_limpio,ic95_inf,ic95_sup,test_macroF1_completo,test_acc_limpio,errores_limpio,ECE,val_macroF1_limpio_C2,caida_val_a_test
+dummy,Dummy (mayoritaria),0.0515,0.0459,0.0572,0.0479,0.1828,742,,0.0509,-0.0006
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),0.9671,0.9558,0.9781,0.9688,0.967,30,,0.9647,-0.0024
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),0.9954,0.9905,0.9989,0.9959,0.9956,4,0.005,0.9989,0.0035
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),0.9953,0.9903,0.999,0.9959,0.9956,4,0.0036,0.9978,0.0025

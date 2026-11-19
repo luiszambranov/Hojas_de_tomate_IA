@@ -1,0 +1,991 @@
+rel_path,class,label,clean,is_aug,pred
+test/Tomato___Bacterial_spot/01e079ba-939a-4681-8983-db663f4a859b___GCREC_Bact.Sp 3029.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0ab41c2e-c6fc-4ef1-9ffb-ce1b241d32be___GCREC_Bact.Sp 3426.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0afe3bbd-b18b-4c70-8fbd-072844e742a2___GCREC_Bact.Sp 3434.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0c2ee2f1-e725-4031-96ea-57e3b8b626b3___GCREC_Bact.Sp 5645.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0da838ea-fd8c-43c0-a437-4aba96234262___UF.GRC_BS_Lab Leaf 8770.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0db0e663-b580-45b3-bd20-bc8a7f3d8b34___GCREC_Bact.Sp 6189.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0f6384da-7338-4309-b6b2-0d4b1dfe9de3___GCREC_Bact.Sp 6039.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0f80595f-b712-4028-b7db-7627322ce019___GCREC_Bact.Sp 5712.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0f81cc91-5b9b-4061-a127-74105ebbcccf___GCREC_Bact.Sp 6305.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0fac0401-b9dc-49a0-9011-2cd3eb906107___GCREC_Bact.Sp 3144.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/0fe8eb74-5520-4870-a069-d4f54b99d719___GCREC_Bact.Sp 6330.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1a017b74-a549-433b-979b-3e3ace67b50d___GCREC_Bact.Sp 5715.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1a067cc9-cf70-41a5-a51c-aa0f6b8a936d___UF.GRC_BS_Lab Leaf 0327.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1bfdc27c-5d3b-4b96-a835-86a09fe407de___GCREC_Bact.Sp 6266.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1c286bba-a5c0-466f-a52d-960d300d135f___GCREC_Bact.Sp 6077.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1c4f6449-0200-439f-9600-5c2bb3400619___GCREC_Bact.Sp 3502.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1cdfa566-3dc1-4be4-8ec9-91fd300ac06d___GCREC_Bact.Sp 3468.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1d85e264-29cc-4239-88e7-2810569e1d87___GCREC_Bact.Sp 3105.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1dd56ebe-f509-4ec1-a43e-13bd49b263e5___GCREC_Bact.Sp 3832.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1ebd463d-ddc5-47e4-8a45-482d411d0c26___GCREC_Bact.Sp 3178.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1ef34abf-812a-43c0-99e6-c29fb38f730d___GCREC_Bact.Sp 5594.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1f6a4e82-1d08-48d0-a488-1a787c854484___GCREC_Bact.Sp 5905.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/1fcebd34-f196-4909-abd1-6d9413d9b4b4___GCREC_Bact.Sp 3304.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/213539dc-f50d-4f98-a380-4fcfc575d208___UF.GRC_BS_Lab Leaf 9122.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/256051f1-8e69-4f2b-b4d5-400fccb18623___GCREC_Bact.Sp 3313.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/34385d7a-a724-4577-898b-dc9b9deb8ed9___GCREC_Bact.Sp 6098.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/389409f8-30ae-46b3-960f-7b4936fc8ca5___GCREC_Bact.Sp 6021.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/41128d1d-2a43-4c08-a100-c92c2fc8b9b0___GCREC_Bact.Sp 3413.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/4126165c-f9e0-4a17-9d87-d41bf356afb9___GCREC_Bact.Sp 3517.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/475758ba-01a6-41f7-abe4-81f2fff399b4___UF.GRC_BS_Lab Leaf 9185.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/54672dba-a230-438b-a8a3-ce4b3b456254___GCREC_Bact.Sp 3562.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/54692b7d-86bd-45db-b3c7-30dc1964a137___GCREC_Bact.Sp 6265.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/64208676-e4c1-4f27-84ba-38c7e0790320___GCREC_Bact.Sp 3779.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/65476dd0-6a5b-4623-b97d-96d74dcdbe03___GCREC_Bact.Sp 3842.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/659908ff-205b-4fd1-af8b-5b2c11b56adf___GCREC_Bact.Sp 3139.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/75139eaa-5078-4bee-9020-b507b1d23ef1___GCREC_Bact.Sp 3831.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/885267b9-f4e5-4005-97f4-2f527accb859___GCREC_Bact.Sp 3217.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/88952ffa-2794-4088-8e71-ea69de1dc141___GCREC_Bact.Sp 3612.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/90107060-4458-44d1-a2b3-20cd9e3d4d11___GCREC_Bact.Sp 5728.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/91592d84-fcea-49ca-a09a-752c12b4d3fe___GCREC_Bact.Sp 3093.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/916574f0-df2f-4d9e-8ba1-0dbd7b702229___UF.GRC_BS_Lab Leaf 0624.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/922416fb-0c08-4edd-894b-bbea0ba183f3___GCREC_Bact.Sp 5900.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/94096d9a-28b6-48b8-a7c4-8b4fa2885561___UF.GRC_BS_Lab Leaf 0213.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/962399bf-bc19-48a8-99b1-92b2963c2dcd___UF.GRC_BS_Lab Leaf 1074.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/99044ddb-da2a-4b32-bc11-67e57cb2b807___UF.GRC_BS_Lab Leaf 0749.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a114e770-fcce-48a2-8ffc-a665fae9e7f9___UF.GRC_BS_Lab Leaf 0977.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a1d009f1-ed05-40a3-a0c0-68c4a36c0ca2___GCREC_Bact.Sp 3381.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a1d8e2a7-c4c9-42d2-8a0d-bcf04053412f___GCREC_Bact.Sp 5672.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a207f1b6-9f64-4d3c-80ca-db47faa91c97___GCREC_Bact.Sp 2951.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a342423d-7c62-4fcd-a9c6-d92d586b5023___GCREC_Bact.Sp 3754.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a3f9c2ae-4fe3-4d7d-9812-2327e3da5f44___GCREC_Bact.Sp 6099.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a469ae7c-95bb-4633-89a6-bb9da9dcb99d___GCREC_Bact.Sp 5635.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a58a9c80-0f76-42ac-8f85-a734ea417286___GCREC_Bact.Sp 3017.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a61d4b9b-aaf1-40a1-84d2-8adfe9359a88___GCREC_Bact.Sp 6163.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a6bbc7a3-0281-4fcc-b480-0917f3416908___UF.GRC_BS_Lab Leaf 9054.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a7af4903-9aae-45be-990d-adfca4510cfa___GCREC_Bact.Sp 5872.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a7b44387-9845-46b5-b520-5a7420efee98___UF.GRC_BS_Lab Leaf 0763.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a85b3db9-6b49-4ce8-91ce-97ce0abb9758___GCREC_Bact.Sp 3412.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a88da7e7-fe37-42e3-bbe6-784f82ed1099___GCREC_Bact.Sp 5828.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/a9f9ac3b-84be-4356-9a00-12beaea27593___GCREC_Bact.Sp 3638.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/acc8c3ba-69bc-4900-9c78-f7140e68f62d___GCREC_Bact.Sp 6158.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ad286f63-30e7-4c14-87b3-9829fe00ec61___GCREC_Bact.Sp 5826.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ae52258c-eaab-4794-b6d5-601544d2e792___UF.GRC_BS_Lab Leaf 1068.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ae7425b4-aaae-44e0-ae8e-19623a66ed70___GCREC_Bact.Sp 2958.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/af614af9-a200-4887-a394-13667ecbc8f7___GCREC_Bact.Sp 6000.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/afa4024c-3912-4e06-8bc4-622a32d59b69___GCREC_Bact.Sp 3790.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b070b4e5-934e-4dc3-baf0-3f9419eecb86___GCREC_Bact.Sp 5648.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b1229b90-496b-4489-a1ca-cc6fbbeb4fbd___GCREC_Bact.Sp 6260.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b29993ed-4d96-499b-ad36-379fda20c9c7___UF.GRC_BS_Lab Leaf 8843.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b3f77a28-f60f-46fa-91ff-cdfad5979420___UF.GRC_BS_Lab Leaf 0714.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b4d6f68b-742e-46b6-83bd-8d13f7bf0796___UF.GRC_BS_Lab Leaf 0242.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b7369ccc-8bb8-462f-a915-d0737d1c87c2___GCREC_Bact.Sp 5646.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/b7abb659-e26e-42a0-a9d3-ddee98526b8f___GCREC_Bact.Sp 5748.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ba6c74fb-f6d1-4561-9b3b-30292b940691___GCREC_Bact.Sp 5657.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/bab7f756-d2e7-483e-8155-2bead1b5f4ce___GCREC_Bact.Sp 6313.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/bc7d9e9e-f2d3-4693-a574-d9486f43b0da___GCREC_Bact.Sp 3593.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/bcb2dd59-8278-4bc7-9a7c-0fbc599adbab___UF.GRC_BS_Lab Leaf 8961.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/bd968a32-63e8-4f39-a379-c2e469622250___GCREC_Bact.Sp 3496.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/bdb7245f-e54f-42d9-a60a-3122ee72a398___GCREC_Bact.Sp 3815.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/be344c1c-8799-4065-bd7a-d94dd7873520___GCREC_Bact.Sp 6214.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/be4dd24b-c2d2-4e6b-bb77-f5d6866ede96___GCREC_Bact.Sp 3123.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/be5c54f2-f81d-4365-ac23-6a1c4ce3c8d8___GCREC_Bact.Sp 3611.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/beed8d22-757d-44fb-b53f-2aa274ef676b___GCREC_Bact.Sp 3749.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c09afee4-a828-477f-af2c-00b11804364f___GCREC_Bact.Sp 6006.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c0a49d4f-501c-4a5f-a7cd-6164d1bddb45___GCREC_Bact.Sp 6157.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c1968e07-0f5b-4187-b718-868f1c24228d___GCREC_Bact.Sp 3639.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c1cede9c-e0fe-429e-a62a-31f075b1fe28___GCREC_Bact.Sp 3746.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c3ac7b7a-a626-4004-ae2b-58720f38f027___GCREC_Bact.Sp 6299.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c46481e2-7875-41e4-95c1-9b75619f2f28___GCREC_Bact.Sp 6356.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c4b6fcb3-faa3-40ce-b3de-9687301e20c6___GCREC_Bact.Sp 6261.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c7b8365c-bb15-4afb-84e2-6b85f0f9cef5___GCREC_Bact.Sp 6245.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c7fc1301-46d2-4474-8814-b3c29a719b57___GCREC_Bact.Sp 6241.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c8460f59-b097-4d67-9832-1db6e2334459___UF.GRC_BS_Lab Leaf 0360.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c8992021-b57f-49e9-a2cf-336f6172ca29___GCREC_Bact.Sp 3079.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c977dd39-0fe7-4370-a7db-58c62b386f22___GCREC_Bact.Sp 6089.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c9a8b799-6159-415d-a82d-8aeb4db76d87___GCREC_Bact.Sp 3701.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/c9f48a07-6bc4-4a62-a817-3b99a64160cc___UF.GRC_BS_Lab Leaf 1208.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/cb70e79d-a282-448e-a300-7f880a08cd70___GCREC_Bact.Sp 6332.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/cb7d65bc-ae67-4686-94ce-f3fdcfc53149___UF.GRC_BS_Lab Leaf 8738.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/cc4ae662-c07c-4aae-8868-f4711ae5d158___GCREC_Bact.Sp 3852.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ccf403ce-5219-4735-a7c3-709d3fc6590b___GCREC_Bact.Sp 3301.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ccfd719f-6e00-491f-8c6e-c91bccb4550a___GCREC_Bact.Sp 3730.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/cef26170-8416-48ef-bc58-78effabb6dcd___GCREC_Bact.Sp 6393.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/cef66036-f0d8-4ab8-898f-8269c2051331___UF.GRC_BS_Lab Leaf 9071.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/cfadf3d6-8988-4cd5-967d-589977eccd48___GCREC_Bact.Sp 6274.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d0259987-90c8-4af9-a2f4-524ed0c514a2___GCREC_Bact.Sp 6365.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d070f6af-fdda-4995-a4d4-8e994faa7c03___GCREC_Bact.Sp 6012.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d0eae45c-673c-41ec-9f84-6d74584803c6___GCREC_Bact.Sp 3039.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d1c21ca6-efc2-48f3-a1be-1593320db75c___GCREC_Bact.Sp 3623.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d3969371-05ad-4097-8390-5d4124d19a9e___GCREC_Bact.Sp 3224.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d4e4f6a5-f887-48b1-83d5-44e6f834cab4___GCREC_Bact.Sp 6064.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d4f3d9f0-b02e-4632-bf9d-6aefdcd4bae3___GCREC_Bact.Sp 3843.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d55c36fd-0ecb-49d9-a2c0-a5039f83b393___GCREC_Bact.Sp 3410.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d78cf219-53eb-4269-830d-e1822caa8fdd___GCREC_Bact.Sp 5755.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d8d2baf6-87de-43e5-bd40-48dfe33841d3___GCREC_Bact.Sp 5747.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/d8d3c759-4242-42c0-9be5-b3177f2664be___GCREC_Bact.Sp 5953.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/da471a01-eb1c-4b89-9b21-6dee2719c200___UF.GRC_BS_Lab Leaf 0495.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/dabf464f-af7f-4fdb-b598-ebc369968706___GCREC_Bact.Sp 3287.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/dc206acc-605b-4a85-a35b-44ce62f0ea7e___GCREC_Bact.Sp 6055.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/dc3f2b4a-e8ee-4934-8d79-cd1d1bc6a303___GCREC_Bact.Sp 3760.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/dc577914-0602-4790-a2ab-5df9e0c581e8___GCREC_Bact.Sp 5760.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/de2b6ef8-f5cc-4cf5-bebf-273d12f2626f___GCREC_Bact.Sp 6301.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/de72e298-e788-4452-89a1-1e2dcb3998ad___GCREC_Bact.Sp 3445.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/dfa62ef3-e71a-49c9-b3fc-6b1c72fa3408___GCREC_Bact.Sp 3176.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/dfce64d1-9954-4922-8beb-2681e2e6b896___GCREC_Bact.Sp 2961.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e0d9aef6-cce9-4ca0-9af6-ea44e9985cdf___GCREC_Bact.Sp 5847.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e17ce060-c563-4f08-ad38-e491d5f09688___GCREC_Bact.Sp 5661.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e2061420-56a2-4612-9ba9-1d9c40e7fd13___GCREC_Bact.Sp 5824.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e25c59a0-9362-4218-82de-9060174d5473___GCREC_Bact.Sp 6277.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e277b59d-2e55-4117-92c7-93996599ef02___GCREC_Bact.Sp 3168.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e2c80b64-2520-49c4-bedc-a604355be09b___GCREC_Bact.Sp 3609.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e39108c9-61e6-405a-bad1-84f0d1fbb25b___GCREC_Bact.Sp 5915.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e4dad7d3-b043-4dc9-9b41-0df12c1a6823___GCREC_Bact.Sp 5822.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e76d1b61-beb7-448d-ab33-328d3e99cbbc___GCREC_Bact.Sp 3796.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e77c7af3-35cb-496d-bc8b-34bc2344b8fc___GCREC_Bact.Sp 3545.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e7a41440-0635-43cf-8d8c-57d892f1ef10___GCREC_Bact.Sp 3399.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e7b30707-3b57-49a1-ba38-ad82ca2c6cce___GCREC_Bact.Sp 5795.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e81ad1cc-7dd3-444e-a14e-80bd8a40b835___GCREC_Bact.Sp 3627.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e85d64bf-a47c-4d80-8eb8-9059c1eec9a9___GCREC_Bact.Sp 5790.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e873f5c0-d887-496d-b037-6549e4c52d3a___UF.GRC_BS_Lab Leaf 9271.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/e8e7edd6-4791-41f4-a110-41af6fb1e124___GCREC_Bact.Sp 3651.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ea184fd1-b4aa-4121-b88b-ef833d6465d2___GCREC_Bact.Sp 6067.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/ea4ddb4b-216a-4ec2-85bc-06314c7de145___GCREC_Bact.Sp 3022.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/eb24be78-376c-4a25-a738-0abb052b01cb___UF.GRC_BS_Lab Leaf 8957.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/efce769f-3228-490a-b442-58a67d2ce349___GCREC_Bact.Sp 5868.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f1164b16-0b05-413e-be8d-79d85901e34b___GCREC_Bact.Sp 3443.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f16e39a5-a50c-4378-a4f1-fe8f3aecf2cb___GCREC_Bact.Sp 3644.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f1882d7d-3cd9-44fe-a1ea-a114fc462059___GCREC_Bact.Sp 3862.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f2cd6d62-01d1-4396-99f7-af3137a3bdc0___GCREC_Bact.Sp 5890.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f310847c-4d60-4212-babd-43d216cc8f88___UF.GRC_BS_Lab Leaf 0998.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f3590208-3be1-4b32-accd-464e58950119___GCREC_Bact.Sp 3481.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f3973c52-56d8-49e7-aded-746189374eb8___GCREC_Bact.Sp 3242.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f53766e3-96bc-469d-b566-929bfd1ca4de___GCREC_Bact.Sp 3442.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f67df1b4-1b28-48c4-96cb-1c31d3ce7e66___UF.GRC_BS_Lab Leaf 0368.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f6bb2bc6-ce10-4b4c-a02d-5540bb42fae6___GCREC_Bact.Sp 3439.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f790b5c0-15b7-4adc-916f-fd4add9a72dd___GCREC_Bact.Sp 3128.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f848e0cd-2447-4b8f-8467-4e14f4d20e83___GCREC_Bact.Sp 6140.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f880355a-9e96-41a3-9e66-79d498dc6d61___GCREC_Bact.Sp 3823.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f8efccbd-9721-4291-a095-9fb29527bbc4___UF.GRC_BS_Lab Leaf 0235.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f935f26b-8e70-4694-b61b-0d6a8a60487e___UF.GRC_BS_Lab Leaf 8929.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f9614f74-38f0-4ada-b73f-2a65ae1885c7___GCREC_Bact.Sp 3736.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/f9fc3cdb-7205-4898-ae4d-0125ffab1066___GCREC_Bact.Sp 5917.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/fa70414b-4b11-43b7-a335-f73714c4894e___GCREC_Bact.Sp 3211.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/fa7ce242-fd51-411b-87bd-9b87cb734c47___GCREC_Bact.Sp 6387.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/fb255876-e618-43a7-ad17-7b200039dbde___UF.GRC_BS_Lab Leaf 0614.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Bacterial_spot/fdd0012a-bf6a-4c3f-83b7-8e11a58f69d4___GCREC_Bact.Sp 6285.JPG,Tomato___Bacterial_spot,0,True,False,0
+test/Tomato___Early_blight/0114f7b3-7f56-4bef-aa47-7a82da142d4b___RS_Erly.B 7437.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/0208ed52-1b28-4c9c-88e3-4667581e1109___RS_Erly.B 7829.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/023fe2d4-6e1d-40ce-99ae-85ba90f436ff___RS_Erly.B 6354.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/055ae8d8-09e1-4b27-b385-9ff8a3e0eaae___RS_Erly.B 8247.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/08fe6531-bb66-4e0a-98b3-4b86a794f9f9___RS_Erly.B 7483.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/0a2726e0-3358-4a46-b6dc-563a5a9f2bdf___RS_Erly.B 7860.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/0bed4d68-b82c-4e96-bbfe-e0fc10df01aa___RS_Erly.B 8301.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/0cd2270f-87f8-45b5-a4af-19fa34b2acaa___RS_Erly.B 9567.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/0db67be3-f733-4d15-b7d9-5d075b2cafc7___RS_Erly.B 6401.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/0e2abcfb-e62b-4c61-a24a-0800cad904a8___RS_Erly.B 7382.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/0ecc2ee7-fb66-41fa-a23b-9bdeaf31078a___RS_Erly.B 6381.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/0efaac13-1988-48db-aec3-f31df3045b95___RS_Erly.B 8342.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/0f111718-a749-42cf-9495-412f4b51acf0___RS_Erly.B 7482.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/11922494-321b-4742-afbe-f6db6a8b4005___RS_Erly.B 9392.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/16ae1b64-2954-4135-bea5-d599ba56740c___RS_Erly.B 7649.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/171b6622-c111-4fe9-b3f9-12b12ee0db06___RS_Erly.B 7836.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/17d051ce-efe1-486e-b5ed-b71b1317a9f0___RS_Erly.B 9614.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/1ba88993-c3f8-462d-bd1b-e10819b9c96f___RS_Erly.B 8396.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/1d1d79c6-824d-4c48-bd59-c83a5cf29229___RS_Erly.B 9547.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/1de17623-e625-4a3a-91e8-64973e6d09fd___RS_Erly.B 9577.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/2165f0a3-1265-491d-ad8a-e53102a87e9b___RS_Erly.B 9376.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/22b653c4-9e15-4081-8ece-9b5950a94120___RS_Erly.B 7814.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/240300f1-a601-4363-84e8-670af8a124a1___RS_Erly.B 7762.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/24f5a397-b5ac-451c-b979-28ee2bb056e6___RS_Erly.B 7795.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/2792287f-aa8e-4c03-aabe-479e75cdc0f8___RS_Erly.B 9584.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/325b9138-a030-4156-ae85-20de17e89f7e___RS_Erly.B 7807.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/352ced01-4645-44e5-bc3e-1b7172deb883___RS_Erly.B 7758.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/3537d467-9926-49dc-8d11-74a76b196354___RS_Erly.B 7665.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/3754ec0a-13b7-40c5-9839-b7499b6c365b___RS_Erly.B 7449.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/375a4113-c296-4b3a-897b-da6f4ac660dc___RS_Erly.B 6408.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/38b7f839-7d01-4062-a858-a64b841b7996___RS_Erly.B 7390.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/392df5d9-0383-4ce9-a6fa-17d09cdc3c62___RS_Erly.B 9497.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/398d72f7-db26-4138-9364-eb506f9495f4___RS_Erly.B 9450.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/3fa32b26-e7bb-493e-b7c2-c40e3f3df380___RS_Erly.B 9546.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/40b67c0a-5dd8-435c-80ed-764593d2147a___RS_Erly.B 7577.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/468a0f48-b0c4-4969-9f21-826cb3ae3f61___RS_Erly.B 7725.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/47465f0e-80ef-4641-b24b-7147dd82596d___RS_Erly.B 9473.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/493f53cc-b8d5-4c71-9446-30f0365f1e4b___RS_Erly.B 7583.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/49c8f57f-3418-45db-b807-6192c20dfc6a___RS_Erly.B 7784.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/4a063384-a4c0-4acc-a787-8236eb40a54e___RS_Erly.B 8281.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/4deeae7f-b339-4d5b-969c-b69ea27c1636___RS_Erly.B 7736.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/4f4ef45f-80b4-4fde-b052-f932d2b5a9f3___RS_Erly.B 9410.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/506f85e7-6f27-40e2-bb9c-5ddb6f35a787___RS_Erly.B 8406.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/5390d8c0-5781-47cf-8d0a-482e000a01f3___RS_Erly.B 7400.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/54a33a0e-3bf6-44de-ba94-8b5096f1cb6e___RS_Erly.B 7668.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/553d53a5-19f3-433e-9805-d3bf5a3804b1___RS_Erly.B 7580.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/56f361f0-4a14-4fc1-acc4-798e6614f8fb___RS_Erly.B 8313.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/573fc55b-8a73-48ba-b916-5d7f397977e4___RS_Erly.B 8384.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/5ac54e63-40a4-4651-a900-fd3ab4d32bae___RS_Erly.B 7727.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/5d0f4647-6f88-4c84-bacf-d6bc4d469c4d___RS_Erly.B 8411.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/5d45c117-439e-454a-bc77-93a27ce98761___RS_Erly.B 7546.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/5f96c793-8015-458b-b3fe-7e718b673b1b___RS_Erly.B 7813.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/6021f415-8463-41eb-ad4c-4033f7d16798___RS_Erly.B 7710.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/6043e8e3-0ab2-4b30-b125-e2a26123b487___RS_Erly.B 8307.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/605ce000-1122-45ae-8742-93a7de8c712c___RS_Erly.B 7627.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/62394305-3fca-4782-ad4a-b5670fcfac61___RS_Erly.B 7395.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/6485f47f-79cf-455f-9d6c-dbb04ddb580f___RS_Erly.B 7576.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/64fade29-cabf-4ec2-a5cf-8c7aeca19eea___RS_Erly.B 6427.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/654d7c11-664e-47c0-a6aa-c5c45a07e386___RS_Erly.B 7799.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/66c98dd1-2790-4977-91ee-1b10ca8c687b___RS_Erly.B 8418.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/66eef337-720e-4166-a1d0-a9d3ce7f96f3___RS_Erly.B 6422.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/671586ac-ff93-4825-b6a5-4b7bc7cbbff2___RS_Erly.B 9531.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/6cd7bfa5-f336-4227-b8cf-3461dedc3b43___RS_Erly.B 7346.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/73f4d791-745e-49b8-82d8-e29b24ddd0e5___RS_Erly.B 7593.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/77ac0ab9-bc81-4de6-8f4d-72d15974d227___RS_Erly.B 7773.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/784f629e-77a3-4d3b-b83c-9ef67b646234___RS_Erly.B 7371.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/7b32caa4-0d67-4b84-a1bf-cf9dffd7ffe5___RS_Erly.B 6405.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/7bab9b53-f608-4f3f-8325-d730d846b3d9___RS_Erly.B 7695.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/7bd63940-1890-4263-8c8c-e0c743bb51ce___RS_Erly.B 9487.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/7d8a95e9-ea83-44f4-9f7c-ad4692b1ce1f___RS_Erly.B 7534.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/809042e0-7587-4a45-93e8-e166c07a55ec___RS_Erly.B 7692.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/851570c6-01ac-49e1-a37e-a657ebd46cba___RS_Erly.B 7717.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/859a134c-51f7-4294-bd1a-78140d775bca___RS_Erly.B 8327.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/8a1d3598-cd1d-4978-9e18-b5e205108540___RS_Erly.B 8315.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/8d4ae220-8a79-4ca0-886c-92e90fc7efb2___RS_Erly.B 7625.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/8e1c8815-49e0-4be6-a3a5-a426ab6b2445___RS_Erly.B 7822.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/9080624e-b5eb-456b-9743-2406cdd01113___RS_Erly.B 9618.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/90b9c783-480b-4f9b-a97a-d632f60a8f24___RS_Erly.B 9566.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/90fd6e55-0c2c-4c8e-8742-5a87bc669633___RS_Erly.B 7356.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/91866d08-cbe2-4a9a-87fd-f2b969e5340a___RS_Erly.B 9588.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/9249614a-4e74-49af-81ab-f8d0689fdc50___RS_Erly.B 7610.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/93dd10f7-791e-4c52-a8d0-f9196cafaecb___RS_Erly.B 8284.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/96418ba8-a05f-4dea-9f8c-d4310ee564be___RS_Erly.B 7620.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/987851e7-b309-4b26-94bc-628374aee931___RS_Erly.B 7530.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/9cd2e960-3941-4b60-84fb-0ed227c26ed7___RS_Erly.B 7839.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/a0cb35c3-0ae6-4b64-a42f-d14006f3d315___RS_Erly.B 7357.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/a20bd77c-4ecf-473c-89aa-329b1719fbe1___RS_Erly.B 7639.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/a24d6927-cb21-4d9b-acc1-780ef36cbbf8___RS_Erly.B 7671.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/a2da7455-c116-4d02-b506-89183f817d78___RS_Erly.B 9371.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/a86f36c6-2089-4367-ba3e-5b7c8b3c0084___RS_Erly.B 7492.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/a8e1a7a4-d45d-4072-9c25-6f7685f8f08b___RS_Erly.B 9387.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/aafda29f-64e8-4f9a-8b71-d32b5ee27fef___RS_Erly.B 9431.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/ab52bc97-6e53-4e96-b54c-c883999143ae___RS_Erly.B 7531.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/ac6a9426-691d-46f4-941a-6637659bbbf7___RS_Erly.B 9394.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/ac804481-f1b0-498c-a6af-a66da467f84e___RS_Erly.B 7760.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/ad302c48-1f27-43d8-b004-4ca61dfa61c1___RS_Erly.B 7566.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/aea263ac-87a1-42b7-a3ca-15d69e55204e___RS_Erly.B 9486.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/afc527c5-c9b2-478b-8df0-ff66767191df___RS_Erly.B 7473.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/b5367f51-874a-4202-a6b6-02327196fd93___RS_Erly.B 8235.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/b60702b4-a7dd-4201-bfcc-4a13c7dcc44f___RS_Erly.B 7657.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/b6611980-ad87-4121-a6d0-b648b946b432___RS_Erly.B 8426.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/b7294a44-e1fd-4eab-97ac-ed6669c58d8f___RS_Erly.B 7514.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/b857a91a-c6e2-4d47-a025-5a5c3254e0a2___RS_Erly.B 7662.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/baea464c-e54b-4e22-8bbc-8047d19ed0cf___RS_Erly.B 8323.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/bbaa5bf2-ded0-422a-babb-350da80266a9___RS_Erly.B 7575.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/bc351ae2-a270-4e17-aff9-b1f559f665f3___RS_Erly.B 7634.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/c0caae76-1327-4d16-95dd-138603f7573b___RS_Erly.B 8362.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/c7005da5-2322-44e9-aceb-c6abe348f98c___RS_Erly.B 6490.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/c78483c5-424f-4a5f-aab3-5b909b62a7e6___RS_Erly.B 7541.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/c78c9d19-e83d-4c3b-a690-e6e3b95c979d___RS_Erly.B 9569.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/c87a666a-07bb-44cc-952a-33d69f075e14___RS_Erly.B 7631.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/c9fa82b3-776c-4a44-8309-a6faf88898e3___RS_Erly.B 7498.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/cbbd6255-f338-45b2-816d-47903ab67be7___RS_Erly.B 7537.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/ccd788af-4fd4-46a5-96af-c6ad44314d45___RS_Erly.B 8436.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/cf7acf3d-e079-4587-b3e8-bafe507c40d5___RS_Erly.B 8246.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d354267e-4855-4197-a18a-668d706db705___RS_Erly.B 7405.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d41e78aa-0020-457b-a17d-736d426adad5___RS_Erly.B 7755.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d4a47a64-0c10-4a43-8712-4eee11c8cf1b___RS_Erly.B 9524.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d4e4bce8-d7ca-492b-8dda-69f3e95f4e5a___RS_Erly.B 6418.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d59a0542-4c2a-441b-8566-e1f741e917d4___RS_Erly.B 6437.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d7e11d88-60e8-41d3-a840-2ad9bab04fe2___RS_Erly.B 6355.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/d8754b7f-53a4-4e69-8f54-1ec9f7581799___RS_Erly.B 6436.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/db228bdf-309f-4dd5-a3c7-d77af0acadb8___RS_Erly.B 7584.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e0f7927f-2310-4db1-92cf-cb89a3e14678___RS_Erly.B 7848.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e11ee1f8-8de2-4d9c-a0c1-86bc42350fd9___RS_Erly.B 9472.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e20fb98a-26f9-43a1-8d55-e1daa9b6a455___RS_Erly.B 7351.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e5f8bd02-fa52-4ba0-9074-cb7618adacda___RS_Erly.B 9617.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e626a672-48b8-490d-8314-a70ff37153f4___RS_Erly.B 7467.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e6645f63-afc8-416a-a4cb-0f5c719476ae___RS_Erly.B 6419.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e81dfd96-227c-41a7-8cf8-dbc14f2e4b33___RS_Erly.B 7407.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/e94d68c8-f185-4b3d-9b44-ad12e3dc891d___RS_Erly.B 9598.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/eb94014e-83b7-46a4-9b1a-7cae23876302___RS_Erly.B 7471.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/ecafc299-bc29-4b5a-9a9b-537362b81ed2___RS_Erly.B 7435.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/efd88799-7fbc-4638-b66b-4e49c7bf7b9f___RS_Erly.B 9390.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/f188144b-d52c-40c5-a06f-07d5796f9ab0___RS_Erly.B 9553.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/f33995ae-6456-476c-b832-4ff4cbaf49f7___RS_Erly.B 7525.JPG,Tomato___Early_blight,1,False,False,0
+test/Tomato___Early_blight/f40b2786-1a17-46e6-b2cb-4ac1beb386fa___RS_Erly.B 6483.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/f4e5115b-ca57-4f02-9271-0c8eda45717e___RS_Erly.B 8317.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/f7ab79a6-43d3-4ece-9461-43742519a221___RS_Erly.B 8290.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/f7beb64a-f8be-46d8-b4ea-637fb71e7509___RS_Erly.B 7711.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/f870ea24-aac9-41cd-92a3-72f87d395c33___RS_Erly.B 7598.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/fc38942e-e609-41a2-970c-cc1a67b16fe2___RS_Erly.B 7793.JPG,Tomato___Early_blight,1,True,False,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_0b494c44-8cd0-4491-bdfd-8a354209c3ae___RS_Erly.B 9561.JPG_7efaf16c-9e26-4aeb-909f-738f14af3951.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_0bb52721-51a6-4343-8c54-de15cedf8e5c___RS_Erly.B 7572.JPG_3429167b-513d-4f69-b0ea-eb1a2ada6804.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_0bed4d68-b82c-4e96-bbfe-e0fc10df01aa___RS_Erly.B 8301.JPG_948c979d-fa19-4eb3-b522-e5d35055f5ec.JPG,Tomato___Early_blight,1,True,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_0c865fa4-b0bf-4e69-b39a-d97b068cef84___RS_Erly.B 7477.JPG_df830411-dc76-486f-b303-a542091e0287.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_0cd1ebaf-3975-4749-b625-50b7b0751c36___RS_Erly.B 7508.JPG_5d82b6f3-9d7e-4140-9035-5a9c3b6d8b65.JPG,Tomato___Early_blight,1,True,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_0cd2270f-87f8-45b5-a4af-19fa34b2acaa___RS_Erly.B 9567.JPG_8e522fe9-5a4e-4f92-99d2-831e7bb04b96.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_1bb0101c-d0a4-41a5-85b9-6e8634d01a36___RS_Erly.B 9585.JPG_70739361-8c7c-4ff6-9a9c-bace42935973.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_1d1d79c6-824d-4c48-bd59-c83a5cf29229___RS_Erly.B 9547.JPG_2eecb1f7-e36b-432c-9fac-247e34d134b1.JPG,Tomato___Early_blight,1,True,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_30542417-544f-4bd5-9fa6-bdeb844c11a4___RS_Erly.B 6454.JPG_ec838fa3-1621-4f19-8dec-598e9faa9015.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_43e84adf-0897-47dc-97a4-94ef0e83eef5___RS_Erly.B 6399.JPG_74f2abe4-2896-4ffa-be5f-92b3c78f5dee.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_4490b039-427d-414c-836d-a1fda6c1ad49___RS_Erly.B 8369.JPG_8992ec21-3e7c-45b9-bfde-6b8afb937614.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_48dd3efc-400d-4b81-a569-13a51083df58___RS_Erly.B 7718.JPG_6d8d3872-fd88-4b17-b12f-d7610503eb2b.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_5d998134-578b-481e-9b88-df0134eb567b___RS_Erly.B 7626.JPG_e6933cbb-c2f5-4b31-b1b2-2b020d257fb8.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_64fd8cac-b985-45c1-9a5d-5f2f49381047___RS_Erly.B 9494.JPG_52a45458-06e5-414b-8e42-f670dd8f60f6.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_65590648-dcda-4455-b1ca-9311e4e6d0af___RS_Erly.B 7659.JPG_1308f6b1-8500-4266-b4a8-a53ea8755eeb.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_70ef7eee-0584-44fc-9c5d-95b504554266___RS_Erly.B 7709.JPG_02c52612-63f4-47c3-8d3d-05554fec4092.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_b5183a61-b8c0-489e-8d38-46fa5e240d34___RS_Erly.B 9461.JPG_791be958-5c70-4c03-92cf-86c976932b2e.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_bcae6e76-f374-446e-b5c3-a7d18f1444f6___RS_Erly.B 7643.JPG_b121e82f-a8c8-4466-b16f-3b88df4e8151.JPG,Tomato___Early_blight,1,True,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_dc4cc3e3-0181-48e9-93a2-7c019df0e04b___RS_Erly.B 9513.JPG_f8427901-35ff-4bc6-8e41-b42d14994af0.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_dfa9f6bb-92ac-4b41-ac6c-fd2a7ddd093a___RS_Erly.B 8276.JPG_0c79fbb4-1fdd-4540-9232-9051a1a445c6.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_e4739018-9e7b-4251-917f-c8502e8b5e86___RS_Erly.B 9443.JPG_6129c49e-7fa3-43aa-8efd-37fee128a61d.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Early_blight/Tomato___Early_blight_original_f035e3c9-069a-4392-9f0c-80262511f616___RS_Erly.B 9373.JPG_48fa91af-8624-465a-8c2a-d8d26b360256.JPG,Tomato___Early_blight,1,False,True,0
+test/Tomato___Late_blight/01a68044-9c5b-4658-a944-6108c6862ce7___GHLB Leaf 2.1 Day 16.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/01c391d2-1b3a-4b58-b205-a75674bba6e9___GHLB2 Leaf 8824.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/01cd2d73-c741-45a5-9610-a2cea2266b80___GHLB2 Leaf 121.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0a39aa48-3f94-4696-9e43-ff4a93529dc3___RS_Late.B 5103.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0a3f65fc-ef1c-4aed-b235-46bae4e5c0e7___GHLB2 Leaf 9065.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0b52ebed-e711-41f2-bfd1-af73410b370e___RS_Late.B 5463.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0c3153b2-0e64-41b6-902a-66eafbf7cae6___GHLB Leaf 4.1 Day 1.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0c73c79f-a384-4729-83c7-72c9b04da20c___GHLB2 Leaf 8927.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0d98a9eb-18e7-47e7-9010-196189bae113___RS_Late.B 5047.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/0ed7d5f6-9394-4ae7-87db-3de58f469263___GHLB2 Leaf 8732.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/13668efa-2c92-4e5a-94e1-e0bc53aab6c6___RS_Late.B 6962.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/147539f7-632d-42ee-a19a-071b9c7c85f2___RS_Late.B 5140.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/16064333-c2da-40e0-9f24-c709191e66b1___RS_Late.B 5421.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1745208a-82b2-4a82-9791-d812cb016850___GHLB2 Leaf 95.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/18568211-18d7-453f-84a4-d22e2088ec33___RS_Late.B 5239.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1b212ad6-e65a-4467-bfd1-9f9139070d33___GHLB2 Leaf 8609.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1ba00fc3-a45b-4d23-94da-5e090ba7f3d3___RS_Late.B 6403.JPG,Tomato___Late_blight,2,False,False,0
+test/Tomato___Late_blight/1bfebfc9-3eda-4889-bdb1-75a8929a1b4f___GHLB_PS Leaf 48 Day 18.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1c6b66db-9891-41cc-972f-a3521deee072___RS_Late.B 5589.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1e0adf6c-906f-4e8f-bfea-cdebf491f3bb___GHLB2 Leaf 8572.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1f2dc4ae-5264-443a-a103-67fafb37bc70___GHLB_PS Leaf 26.1 Day 16.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1f38a263-cfb5-47fe-8c0e-f8d62141f922___GHLB_PS leaf 28 Day 12 .jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/1f8743b6-f385-4464-9e41-48bd9fe85637___GHLB2 Leaf 8914.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/2018ff03-69eb-437f-96e2-f51801042c32___RS_Late.B 6157.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/2260ae60-08dc-4e6e-abd7-c9aed84163ea___RS_Late.B 5032.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/2325473b-e5b1-42b2-a569-647f3db554bb___GHLB2 Leaf 157.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/239111ba-7348-4075-bacb-e206d440ecc8___RS_Late.B 5389.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/26480c44-e0f2-4ab7-a6a9-919d532ecfd5___RS_Late.B 5037.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/32482915-ead6-4e0e-8b3e-a14dd3546b0f___GHLB2 Leaf 8595.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/373403cf-6ba1-441e-bd8a-590578b67ba7___GHLB_PS Leaf 1 Day 16.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/407672bf-00e1-4362-acf9-cf10aae32dec___GHLB2 Leaf 8844.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/4206d227-db97-4b7e-8433-042f12d6681b___GHLB2 Leaf 8654.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/42925d12-5478-4773-acdd-88b8361f8bb9___RS_Late.B 5458.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/4392c0b5-bd98-4419-a99a-68d0f41f00b9___GHLB2 Leaf 8680.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/4431e0a9-f61b-4eff-a592-506a6c6606b2___RS_Late.B 7104.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/47614fe0-26d7-4259-a78b-5b8db71f7eed___RS_Late.B 4976.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/4789c47e-2fcd-4dd5-8a57-818b745c123d___GHLB2 Leaf 8545.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/54924dfc-c51a-426d-8f0e-d282fa7e8fd4___RS_Late.B 6481.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/5600518d-5a2d-4155-a53b-cad312d7fbb1___GHLB_PS Leaf 26 Day 13.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/5689609d-1132-425a-96d3-070900666ffc___RS_Late.B 5455.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/5735bc4e-7a49-4a84-85f6-de312603c7f5___GHLB2 Leaf 8668.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/5828f9c7-5083-45c3-b3bb-bb202ed1cd53___GHLB2 Leaf 128.1.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/58465768-148b-40c6-8534-e695e9c517d5___GHLB2 Leaf 95.1.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/6302a8c1-ab60-496c-80a0-e96b47722ea3___GHLB2 Leaf 8737.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/63184ff1-7a41-4cc3-9ff8-0ad46c45944a___GHLB2 Leaf 8614.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/72644544-d9a0-442b-9992-e37ed7565d97___GHLB2 Leaf 8904.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/73901132-ade5-4705-9760-c2adcb396cda___RS_Late.B 7065.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/7609a2a4-654e-4dad-b3e6-1cb4aab89420___RS_Late.B 5633.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/7872b2c5-2b59-4f28-aab0-f9346486c83a___RS_Late.B 5332.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/79619905-8b34-42a0-8176-17e28c200a5b___RS_Late.B 5090.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/8275c408-1ce2-4b4b-a6de-b7a0b373ad05___GHLB2 Leaf 8741.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/89226dd4-357b-4532-82d6-adeb7724e5e8___RS_Late.B 5387.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/89996998-a74f-46f5-8e5f-790a66dbd652___GHLB2 Leaf 8826.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/933211e0-2013-485a-8a05-25f4dc78c41c___RS_Late.B 6281.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/9718ddc7-7afb-40e4-b94a-bf86c9e0beea___GHLB2 Leaf 8642.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/973b8b82-cccd-433c-a868-5dee559b2dce___GHLB Leaf 2.6 Day 12.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/974a15f0-913a-41ab-b5a4-30015f159902___GHLB2 Leaf 8792.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/9781d9ef-a5b7-46e9-a763-a2b03b4d703f___RS_Late.B 6885.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/97968e5a-b1d0-428c-842a-f77308212339___GHLB_PS Leaf 46.2 Day 18.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/979c7630-3f70-4b8e-80eb-cbcc479e8220___RS_Late.B 5019.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/9823fb17-3426-48be-a3de-ed8a3d742674___RS_Late.B 6320.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a06cd325-69d3-476c-a515-7e836bb39f3a___RS_Late.B 7126.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a0f74b23-b001-4cb9-8a79-f80bda4cc8e8___GHLB2 Leaf 9018.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a38d671f-4582-4ee9-b994-63f2343821e8___GHLB2 Leaf 8592.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a54133fc-459a-4e56-88e3-51ca0aeffadd___RS_Late.B 6258.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a58b9916-46bd-49c2-b26e-de46080fdeee___GHLB2 Leaf 8879.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a58d9924-0f70-44f3-ac76-1c2d7fc238e1___RS_Late.B 5086.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a5f089d1-5a8e-4c1f-bcc2-c1154c28e824___GHLB2 Leaf 8926.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a63362e0-5e9f-4056-b66b-2f3fc23ea932___GHLB2 Leaf 111.2.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a65ce89e-dc42-4ef6-ae82-68017cec5884___GHLB2 Leaf 8653.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a6876e29-dc0f-4716-bd3c-eedc9f45cf70___GHLB_PS Leaf 41 Day 18.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a710379a-3b85-435c-8b46-7a177b42ff52___GHLB2 Leaf 8906.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a72398fc-23d1-4cb5-9331-d06fb7a13c7f___GHLB2 Leaf 8978.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a78725bd-f2c9-405e-8591-c8b009f43ea7___RS_Late.B 4918.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/a93a7ca0-3ed4-4d86-9441-49a6d605c26d___GHLB_PS Leaf 26 Day 9.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/aa32ce1a-27a6-4371-b119-ff5ea6e34a3d___GHLB_PS Leaf 24 Day 9.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/aa358a07-3140-4f44-861b-dcd99f943b09___RS_Late.B 5542.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/aae99313-6183-4d7d-832f-f5af6d1522fc___GHLB2 Leaf 8950.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ac89de10-2de8-40a4-8f6e-f0a37e97cd57___RS_Late.B 5126.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ad294462-aa5f-4e50-b05f-89e460f9a38a___GHLB2 Leaf 8804.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ad90bf43-648e-479e-8256-5e4d628cfa36___RS_Late.B 7134.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ada20abd-9779-4e32-b331-1ba7b490b36e___GHLB2 Leaf 92.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/adf760b7-e95e-4c27-a829-a1105bc53ed4___RS_Late.B 7004.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b0fbd7bd-f906-489b-96ff-a2683eb76dd3___RS_Late.B 6173.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b15c92e9-6973-415c-80fe-82703ff722f7___RS_Late.B 4994.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b28716e5-d883-4e52-a8cd-514b38be258a___RS_Late.B 6349.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b3971b7c-ae24-4f4f-b426-3368096afeab___RS_Late.B 7079.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b6457b32-7732-4caf-a316-74021b265359___GHLB2 Leaf 9054.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b657dc7a-df76-40e1-bc87-2d61b81040a8___GHLB Leaf 27.1 Day 12.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b687c1bd-478f-45ea-a69d-d66f980dea08___GHLB Leaf 7 Day 6.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b694de0e-542c-4b7a-b322-30cea130719d___GHLB2 Leaf 8720.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/b9e6992c-f73a-410e-8b06-a6ce96192c6a___GHLB2 Leaf 9077.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/badd718d-0a43-411b-889c-d46a01834dba___RS_Late.B 5547.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/bb058b97-a4b8-4a36-8179-2a8fa186085c___RS_Late.B 4927.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/bbedca9b-8f66-4437-adb6-87f11edd8398___GHLB_PS Leaf 47.2 Day 18.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/bd9341f4-34d9-4acb-9aa0-5dbff08f8ba6___GHLB_PS Leaf 23 Day 9.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/be9f181f-5692-4811-9678-69dbe94d6ecc___RS_Late.B 4838.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c215da6d-139c-40b7-aeae-41138ff98a1c___GHLB2 Leaf 8932.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c3459ef4-41aa-415d-9941-e3fbdac87f20___GHLB_PS Leaf 8 Day 13.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c3fc678f-f7ad-4b41-b1f4-5abc1f5461b5___RS_Late.B 7142.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c483c433-f51f-4e00-beb8-642a07628971___GHLB2 Leaf 8960.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c5b2af5b-c27f-4ed3-83e5-e2bfe096f024___RS_Late.B 6918.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c6cfdcc7-c5e6-45bc-8b5a-709bf2753902___RS_Late.B 7081.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c6dd1b5a-316b-468a-837a-707071a1ff98___GHLB2 Leaf 8790.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c7871a80-0d29-40ab-b117-344808cb3485___GHLB_PS Leaf 33 Day 13.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c8e70ac1-1fbc-496d-a6eb-954ef48d4f56___RS_Late.B 4932.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c8fbd03f-4935-4199-8f8d-7bc1cc9e024d___GHLB2 Leaf 8941.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c8fca126-5379-4a48-8de1-5fcc8643999b___RS_Late.B 6934.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/c95eaeb8-7673-4411-bbbe-b2464526f303___RS_Late.B 6233.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ca6362b2-b680-4348-a795-3bc37275e70f___GHLB2 Leaf 79.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cac3a565-799f-4b66-a575-5ad6ff356d37___GHLB_PS Leaf 2.3 Day 8.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cbad7bd4-3406-415b-b82c-bf4f995e8eec___GHLB2 Leaf 115.2.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cbba9493-51c1-4cad-b194-0ca6ac3a3059___RS_Late.B 6773.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cc31ca99-6a1c-4e62-bc6b-044c99ba2c62___RS_Late.B 6775.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ccc2f713-80ff-4e68-bb2d-14d6152dfa6d___GHLB2 Leaf 8898.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cd042eac-79ff-4b4c-a561-b24bc69f9215___RS_Late.B 6486.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cd8e0f91-3cbd-4327-9966-e8d3424d2612___GHLB2 Leaf 8713.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cd97ced1-2870-4f00-b7c7-37b8903378b9___RS_Late.B 6926.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cebd5337-bb61-4454-93da-bba4169f0802___GHLB2 Leaf 145.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/cedebb08-bf5c-434a-931e-63ce9621b77e___GHLB2 Leaf 9091.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d0badc95-d04c-457b-8db8-aa6e198f4bd6___GHLB Leaf 10 Day 6.jpeg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d1c1488e-f121-4b32-a7f6-24c25ee6b766___RS_Late.B 7102.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d2c04ad0-6dbc-4f9c-8566-446bcc9b5953___GHLB2 Leaf 8679.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d348146e-9cb0-45be-b0ba-78fc310b92da___GHLB2 Leaf 9101.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d6e9c42c-39cb-42a7-8d9b-a926fe21f926___RS_Late.B 6684.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d84f5ea2-462a-40e2-8b01-916a65588aaf___GHLB_PS Leaf 22 Day 9.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/d966df9d-0762-4353-8b70-72c9b390013e___RS_Late.B 5591.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/dbedc9c1-d7f8-4eef-b4bf-d36689c57c60___GHLB Leaf 27 Day 12.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/de8d11a4-24da-489d-9c88-0d7cf5344cdc___GHLB_PS Leaf 2.3 Day 16.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/dfbac5b2-1a64-4db0-8045-eaabfdbfb790___RS_Late.B 6039.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e0bea030-e8ac-4f3c-a87d-bca3090ad600___RS_Late.B 6434.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e0d19a18-0c58-4424-a433-bb50ed57cf8e___RS_Late.B 5159.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e1088349-de49-4d96-9405-6163002bf9de___RS_Late.B 6904.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e27901d0-1f93-4342-a8d1-6e19f234b296___GHLB2 Leaf 8916.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e2acf01a-92f6-47b2-bc21-e830899f9f0b___GHLB2 Leaf 95.2.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e5b328bf-1f13-4831-bd63-b1bdb30f02d9___GHLB2 Leaf 8674.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e5b50c59-e517-4dcc-8887-8bd2ca748329___GHLB2ES Leaf 142.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e90482fd-1a84-462a-b28d-cb9b6aee18eb___RS_Late.B 6161.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e9b2e447-add8-4ff1-a24b-eb577d0085c7___GHLB2 Leaf 8589.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/e9ef618a-46ef-4e2d-a76e-a2423336b29b___GHLB_PS Leaf 43 Day 18.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ea9e87df-efa8-4be3-8181-59a4b24dc3b7___RS_Late.B 6279.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ec3d3481-5b97-446c-a1e7-c97334166a50___RS_Late.B 7029.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ecacf5db-abcf-408c-b41a-93e339fbfc0c___RS_Late.B 6405.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ed70dd6e-db68-4cf5-95b6-e25c67be113f___RS_Late.B 4966.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ee137d7e-8e50-484b-aee0-e6de0a1ed4f7___RS_Late.B 6353.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/ee963b20-1464-49b5-a390-790b05e8daa1___RS_Late.B 5487.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/eeea993c-d0eb-4f36-acf4-187e01dc6b72___RS_Late.B 6028.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f15b868b-23ae-4e87-8053-6199c363e079___GHLB2 Leaf 8984.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f1aca7db-32e7-4cbe-a9ca-0b185fd1a1a9___GHLB2 Leaf 89.1.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f21ce358-48ea-4676-9395-22145c4c9707___GHLB_PS Leaf 25.1 Day 9.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f2443e0e-d34e-4e25-aa5d-9653e2dd36ca___RS_Late.B 6465.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f25bcf32-3bf7-4137-9d9a-ab195d4f7d3f___GHLB2 Leaf 9049.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f28e0d02-2e81-4b32-92c7-7d08ce9e40d7___GHLB2 Leaf 9001.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f2dd9615-908e-4504-b38d-542765ae4f48___GHLB Leaf 8.3 Day 13.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f7b5ed86-c63c-49c3-90d0-e1f35f4a93e4___GHLB2 Leaf 8979.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/f9f0fe7b-8c5d-4927-afc9-347aebab1ffa___RS_Late.B 4925.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fabba25a-e191-47c5-a468-6acf744312e1___GHLB2 Leaf 8835.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fb584346-7e1d-46d6-ae0b-365b6ccad7ce___GHLB2 Leaf 8981.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fbd28294-04c7-4f8a-8576-f523856c46d9___RS_Late.B 6640.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fcaf83f1-ddaa-4faf-a4aa-f657f5342474___RS_Late.B 6278.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fce9cc3f-88ab-46d6-a26f-c6ff0e7c56e7___RS_Late.B 6372.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fcfe91fc-c578-4c6d-8fe4-b8ff4cfdb766___GHLB2 Leaf 75.1.JPG,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/fe20bf11-9be6-480c-8c99-b7b391ac9653___GHLB_PS Leaf 44.2 Day 18.jpg,Tomato___Late_blight,2,True,False,0
+test/Tomato___Late_blight/Tomato___Late_blight_original_0dc24e61-c636-49e4-9a3d-3aa9a0efb429___GHLB2ES Leaf 69.JPG_f7ed292c-3afe-4bd6-8ea2-51fa197197c1.JPG,Tomato___Late_blight,2,False,True,0
+test/Tomato___Leaf_Mold/0462054e-f0aa-41a7-a9cc-95d0784b9767___Crnl_L.Mold 6547.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/080ae890-cc9c-487e-94a2-f3bcc7decb32___Crnl_L.Mold 7043.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/09240d05-a928-4491-9f13-ee42b693e2bd___Crnl_L.Mold 6610.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/0bb34c9b-ecf7-4fb1-8ee1-098bccdcdaae___Crnl_L.Mold 6522.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/0ee63bfa-d01f-4adb-b954-924f271a4d4f___Crnl_L.Mold 9022.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/1826cec0-4c4e-4924-a992-e70eb2a0097e___Crnl_L.Mold 6638.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/19547a57-651f-4f9c-b1df-a4ce5b5fdffd___Crnl_L.Mold 8731.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/1b2db321-28cd-4e33-88eb-b6c1302ca033___Crnl_L.Mold 6701.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/1b35b99c-c7c0-4f2c-975e-148e4b6e18b3___Crnl_L.Mold 8820.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/1fef5c8b-7d83-45b5-9031-f636c3dc44ae___Crnl_L.Mold 8953.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/20e63ca2-e070-422c-9839-9cac224719e5___Crnl_L.Mold 8650.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/22d04ec1-94b9-4716-a441-ae6c40232131___Crnl_L.Mold 8744.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/2406a1dc-92d9-4cc9-a724-a67c73104717___Crnl_L.Mold 8750.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/24b03bfc-3491-490d-9178-61c6c56c4b56___Crnl_L.Mold 9018.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/2a15214d-cee6-4359-8baa-7281f3fc0182___Crnl_L.Mold 8672.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/2a27ed39-5f6c-490e-8dae-8b1df4683dbc___Crnl_L.Mold 9099.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/2ba2d560-919c-48cd-8f98-c4caf8fc37e7___Crnl_L.Mold 8994.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/36bed8e9-0b39-48f9-a8f7-d776469ce245___Crnl_L.Mold 8912.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/36c7da77-dcbc-43d6-bbbf-e3bda0be03f4___Crnl_L.Mold 9041.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/407519ba-54e6-4779-a886-8163cab06a04___Crnl_L.Mold 8807.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/4152fc15-f9d5-4928-b177-b993db007110___Crnl_L.Mold 8876.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/44167946-e66c-4206-9501-4f1777bac9ae___Crnl_L.Mold 8639.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/4541dd58-9728-4492-8729-f4f174d774ac___Crnl_L.Mold 8992.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/45c5b434-5849-4d00-99bf-c0d54088c6f6___Crnl_L.Mold 9100.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/460faa12-8c7a-458b-a6a1-90c71cc73fad___Crnl_L.Mold 9102.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/4615af1a-bf03-4e3a-9687-e62ce353f1e8___Crnl_L.Mold 8702.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/462317c2-9028-473b-9dc6-523eb348e47b___Crnl_L.Mold 6875.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/46cb40a7-b7f5-428c-91a3-121085ec73b5___Crnl_L.Mold 9116.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/4797e35c-7ec7-4853-95d5-c9fa4b6c0be9___Crnl_L.Mold 9162.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/48f87aed-cace-4b4f-bc57-1b6b2a6c1e9b___Crnl_L.Mold 6810.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/50a47a28-bbe5-43fb-a2b9-f13c3805de0c___Crnl_L.Mold 6572.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/51189dab-468d-4304-8368-d0e4e3247194___Crnl_L.Mold 6667.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/526cef23-88d8-4dd8-8ff4-eed6e98ac7d4___Crnl_L.Mold 6856.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/53583056-c427-4687-b89f-e0507471c8b2___Crnl_L.Mold 9077.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/53853659-7886-4d19-87a0-65318154b8e2___Crnl_L.Mold 8865.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/546f348a-359a-4cff-8cdd-c87ecb1cec95___Crnl_L.Mold 6873.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/55c2cd78-8c7c-4102-801f-c87d2284b874___Crnl_L.Mold 7069.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/55cc7d97-c88a-4053-8691-288e94bf96b0___Crnl_L.Mold 9182.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/58716bd0-de1b-480d-9381-af08e2f13813___Crnl_L.Mold 6732.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/58fa7c1e-418a-45e5-9228-14bdee34fc89___Crnl_L.Mold 6816.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/59ad7ddc-9db9-4a9f-b067-e190e0a494e7___Crnl_L.Mold 6566.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/5d9bfd9d-330d-4be1-8369-d4ff27bd4473___Crnl_L.Mold 6852.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/5ea3c837-2de6-4da6-bd96-47da4eeccf2c___Crnl_L.Mold 6697.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/605aacc9-f599-4bef-a53c-01e56dde4892___Crnl_L.Mold 8679.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/61cade04-60b3-44bf-88f3-88583c90f49e___Crnl_L.Mold 9148.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/63ed021f-afc3-44cc-ab70-0bacc9815d3e___Crnl_L.Mold 6997.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/6f0ac1c9-cf47-4d88-87e6-5554dedfa621___Crnl_L.Mold 6663.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/6f733647-eb00-45d7-91a9-0845c1613d80___Crnl_L.Mold 7049.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/7011fa6f-fba9-466e-a6d1-439370a4a37b___Crnl_L.Mold 6588.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/707469c1-31f4-4c33-ae84-432e70e0c399___Crnl_L.Mold 9034.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/7115a5d7-3157-4183-bda2-8d0b43f50276___Crnl_L.Mold 8898.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/755296b4-fa21-4ec5-b912-bd85b2897a01___Crnl_L.Mold 8630.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/76b3aadb-a6e5-465d-809b-0aa4d60a1f83___Crnl_L.Mold 6680.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/77b74ab1-43d3-4d49-b901-e6e19ee0f200___Crnl_L.Mold 9063.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/780aabe7-0d54-4849-80b8-773552ca4b45___Crnl_L.Mold 8824.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/78cfaa28-9259-4225-8641-5dfaceab2118___Crnl_L.Mold 6690.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/791aae0d-94d2-4d06-b696-6ffd297f2ccb___Crnl_L.Mold 8888.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/794848b0-1482-46ae-b615-1382b41ea623___Crnl_L.Mold 6595.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/7e0c6168-99d7-4b8f-84fa-045b4bb798c5___Crnl_L.Mold 6830.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/89abe0cd-9b85-4fbe-b441-7c7431bc7c18___Crnl_L.Mold 9155.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8b4d7740-f9a9-4999-aadb-e017fed99f8b___Crnl_L.Mold 7075.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8b5d979a-f03e-4f79-b638-f5222b904a1c___Crnl_L.Mold 6727.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8bb7759a-c612-42ec-ad7e-6092dc53bbf6___Crnl_L.Mold 8822.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8be2ecaa-d9f8-454d-89c4-5b5489fbc2df___Crnl_L.Mold 7172.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8c42c67d-817e-420b-8b70-92b4a32c46bc___Crnl_L.Mold 6501.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/8cd36896-f066-47f4-a965-d5bf0c58f954___Crnl_L.Mold 7042.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8ec82028-24e9-4bb8-8c36-31a42189790e___Crnl_L.Mold 8783.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/8f03cf41-751b-4dd9-9f74-e7bd40919d96___Crnl_L.Mold 7074.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/90150c9b-42f9-4e57-9ef4-2e9355e66d45___Crnl_L.Mold 6633.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/907da8ff-9de5-4078-a1f4-f3cd4bd2a37d___Crnl_L.Mold 6685.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/90f6e771-bfb7-4e54-aa8c-6e295af7dc6e___Crnl_L.Mold 8761.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/924b52ad-82dd-4562-94b6-5a5a9e41e81c___Crnl_L.Mold 9110.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9252cc55-7007-4d2f-871b-6fafff4068c8___Crnl_L.Mold 6776.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/96ec6dc6-c3fb-4261-93ae-77d5dfaf8478___Crnl_L.Mold 8909.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9846d408-3d13-490d-b9b1-4809f33c22ef___Crnl_L.Mold 6750.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/99d2b2e1-b3e6-4689-ad9a-209cdfdf4084___Crnl_L.Mold 7025.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9a1fc5b3-476a-4565-ad69-e054accd2dd6___Crnl_L.Mold 9030.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9b6483fe-95eb-464b-a73d-0cac6f777994___Crnl_L.Mold 8632.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9d63ab4a-2bf7-4965-b96c-5c4c28c844c0___Crnl_L.Mold 8944.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9d8d2581-16a2-4151-9434-8ab9df3f632b___Crnl_L.Mold 8737.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9e6ab532-2a3a-4415-98b5-a1be716eef9c___Crnl_L.Mold 6619.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/9f8e73b0-a649-44db-b77c-547a8ef7912d___Crnl_L.Mold 9171.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a0e635a0-0935-4192-94cf-7003875a501e___Crnl_L.Mold 8675.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a4a9faea-5038-4fa7-b056-8eed57e56525___Crnl_L.Mold 7179.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a5639de3-303c-4066-b3a0-a72aa73ef818___Crnl_L.Mold 6740.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a72375bd-cec2-462a-8871-19eb0b2bd2dd___Crnl_L.Mold 7139.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/a7ea5602-9cd1-444e-bce8-ed314ddda894___Crnl_L.Mold 9101.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a8ce6b5a-1f27-4e8c-9c53-989674ae4c4b___Crnl_L.Mold 6649.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a9bfbf7a-3669-4b5e-a5c7-ac8fcd03fd48___Crnl_L.Mold 7094.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/a9fbf5e6-bec9-4845-9659-237d9c67f8eb___Crnl_L.Mold 8624.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/abc565cd-fe1c-4839-ad1f-5721d4506a2c___Crnl_L.Mold 9082.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/ad05c94b-3432-4776-99ff-a5735e52cf7a___Crnl_L.Mold 7162.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/ad0bafb5-fc74-49b6-9626-4c2ae34bdb26___Crnl_L.Mold 8872.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/b0f88a05-dfca-4814-9080-fb0a3fa0ee0c___Crnl_L.Mold 6978.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/b190b148-9621-404b-a3a1-e697d2d40f42___Crnl_L.Mold 8656.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/b2af1e31-5779-4c69-bca8-c2d2c3c7bc34___Crnl_L.Mold 6808.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/b31c5c8a-aac0-4cad-af32-2b10e2fa64f6___Crnl_L.Mold 7053.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/b6bdf275-d731-415b-a68d-193bbd6c037a___Crnl_L.Mold 8772.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/b75fa72e-186c-4d64-a88c-dc037f275415___Crnl_L.Mold 6531.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bb3b17dd-b745-4706-8e03-ff2660d77c23___Crnl_L.Mold 6512.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bb64a6b2-b479-4cff-a101-7d0d98ac62c9___Crnl_L.Mold 9183.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bf120193-9127-4e56-8031-9b0cded8a75d___Crnl_L.Mold 9004.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bf40a7f6-0b81-4d33-88fa-1405dcd35f3a___Crnl_L.Mold 7060.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bf97c963-b3cd-480a-be10-b8b2c539973f___Crnl_L.Mold 6982.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bfa39ac2-512e-4699-b8e1-7baabffb0b97___Crnl_L.Mold 8771.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/bfafcb99-32f1-4310-a844-a0a0231afdbe___Crnl_L.Mold 6643.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/c6583f61-77e9-4417-aed3-44198e567580___Crnl_L.Mold 8947.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/cc4dfd3c-fca5-43ce-8532-dc78020d9f62___Crnl_L.Mold 9156.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/cf08d13a-ab82-4f09-92ab-8f45fe1eb086___Crnl_L.Mold 8671.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d11b8bf0-6fcb-4b1b-b687-c2e0d2fabaa2___Crnl_L.Mold 6669.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d2c889b0-0223-4e09-9d9f-cdf019b65120___Crnl_L.Mold 8631.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d47ea382-40cb-4126-a2bc-6578c30f9b78___Crnl_L.Mold 6801.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d5926e32-2f9f-413f-b6b8-fe86725729d2___Crnl_L.Mold 8974.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d61a37fd-71d1-4b5f-a533-74e1bdab3bb8___Crnl_L.Mold 8975.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d662ce55-855f-4af0-84ef-6e0d9e5e468a___Crnl_L.Mold 6586.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d909406f-7eb4-4498-a31f-0a1b3535cb35___Crnl_L.Mold 8797.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d93b58b0-81cd-4e29-93b3-6f3d8fc9e6f3___Crnl_L.Mold 6966.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/d998fc3d-1314-4f78-86b7-ca3bf205fe6a___Crnl_L.Mold 7168.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/db0e6ad7-58db-478e-9b17-37bb603363d1___Crnl_L.Mold 8863.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/db35e8bc-5879-436e-82a1-e1e0e0f9b19c___Crnl_L.Mold 7044.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/dc61dd2d-7b0f-4927-a3af-4ad0c71bda15___Crnl_L.Mold 6561.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/e401be04-ce62-4682-ae91-765fc4c2cc31___Crnl_L.Mold 7114.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/e4e09a80-ae3a-42e8-ae98-e892b0507098___Crnl_L.Mold 6636.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/e59a2933-7869-4e49-8ed5-1663ca5200d1___Crnl_L.Mold 6785.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/e7391b48-0b36-41fd-81f0-35c6b5a24d0a___Crnl_L.Mold 6761.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/e98c3ab2-eb39-48a5-8beb-d11995a55015___Crnl_L.Mold 9185.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/ea06d6ff-8848-40a9-8372-fcb229337bd4___Crnl_L.Mold 9092.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/ea19d516-b7fd-45c3-a459-68281f3bd9aa___Crnl_L.Mold 6836.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/edd27dda-8e38-45da-9744-75982f71b4fe___Crnl_L.Mold 8762.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/f12a4cdc-3c47-4f22-9f03-188015dedb07___Crnl_L.Mold 8913.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/f4844fb4-c16b-454b-b5b2-64911885ec71___Crnl_L.Mold 8657.JPG,Tomato___Leaf_Mold,3,False,False,0
+test/Tomato___Leaf_Mold/f519ceb3-e49b-4be9-81fa-20fea299b49e___Crnl_L.Mold 9088.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/f63bb2e2-d13c-4e48-8e94-4d97f0dbad49___Crnl_L.Mold 6799.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/f8e698ff-5f4d-4735-ae53-1daf38c49d46___Crnl_L.Mold 6536.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/fb134b57-4763-4598-a0ee-ec7aa7e95d35___Crnl_L.Mold 6695.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/fbd446f3-6104-4ab8-8d3f-d4f69befecef___Crnl_L.Mold 7131.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/fee0f163-ef11-48ce-9eff-5546b8ddae91___Crnl_L.Mold 6861.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/ff01be71-2cc9-4e83-b907-81c21d31983b___Crnl_L.Mold 9117.JPG,Tomato___Leaf_Mold,3,True,False,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_0ddf82ad-9004-4913-ac9c-d00333d7c858___Crnl_L.Mold 7089.JPG_9e1a8887-701e-4b57-804c-ca38e2828a6a.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_0ee63bfa-d01f-4adb-b954-924f271a4d4f___Crnl_L.Mold 9022.JPG_c9629a0c-e36c-4377-8b66-fd3a9c11156a.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_167ce5ce-ef32-4544-a7aa-d05d315ef61a___Crnl_L.Mold 9113.JPG_033bb32e-bc5e-4fb1-8cf3-abc363debc53.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_1bfe7244-44ab-4fac-abe5-f229217cdf0b___Crnl_L.Mold 6815.JPG_676dff59-729f-4c7e-809d-507d1a6adf28.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_1f5c3b37-5590-4db7-a702-0cd93db0c929___Crnl_L.Mold 6930.JPG_8c669405-9f99-4836-9458-58925a2118fb.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_201ada31-7b91-42c1-a245-4d37df0b2c52___Crnl_L.Mold 8742.JPG_4175e979-5b81-4e32-aa06-6d1323355bba.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_269f3e0a-4d4f-4598-b19d-9f5428342464___Crnl_L.Mold 8745.JPG_77c6939c-29e9-4cb4-8618-001c2813fcd3.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_2b727376-492d-47dd-983a-c8f9c7ab386a___Crnl_L.Mold 6556.JPG_0bcb1f4a-cffd-4952-8bb7-72ad8495ea52.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_4914514e-fd44-4e2b-becd-5daf581c78e6___Crnl_L.Mold 9019.JPG_a94202e1-1bd8-457f-9cea-38ed44c50f34.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_59ad7ddc-9db9-4a9f-b067-e190e0a494e7___Crnl_L.Mold 6566.JPG_e09b00c8-aa39-415f-99af-3683f446ec57.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_661a456b-bd86-4c75-951f-0accf26ea4aa___Crnl_L.Mold 8955.JPG_4b0089eb-f55c-4e7b-b340-b48a11d6fac4.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_6bb7b9f1-7f75-4cf4-a949-cf779a171417___Crnl_L.Mold 6958.JPG_43273b40-199d-4bd9-a01d-aa52aa68e8c8.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_822c1a03-77c7-4640-bf3b-055542fda0bb___Crnl_L.Mold 6950.JPG_02f35e1f-8d0d-4c04-a3ef-fc356b2ed8fd.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_8d6e2d0b-672d-4737-8973-17a9f31517a8___Crnl_L.Mold 7070.JPG_e262b389-d5ac-48cd-b1ee-a945e70e2958.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_97ae4dda-7b28-4a06-a348-d361f8ecf56f___Crnl_L.Mold 8899.JPG_97a270ad-d78d-4b76-9c35-792b50e2ea28.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_a3bcb764-2c05-44e0-a177-70d0d8294894___Crnl_L.Mold 7170.JPG_490921b4-c1ad-4acd-9c1f-d5445393a5c8.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_ad0f47b8-f36c-42a8-8c9d-9c24f91a3ef1___Crnl_L.Mold 8891.JPG_d36eb32a-59a2-4788-b495-12c507172f53.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_b26fc8e6-5d9f-4b96-b02b-f048c4b9e05a___Crnl_L.Mold 6735.JPG_967761ab-4f83-4c15-8df8-eb88290153eb.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_bcab5afc-96ce-4b88-8801-8e905b783ef3___Crnl_L.Mold 9094.JPG_afc841f7-68eb-47b2-b20f-361300b3cd2d.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_be1b7152-f0f2-431c-9635-29c4ca31fb5b___Crnl_L.Mold 7111.JPG_58c9a597-93b8-43f4-9662-c37fbd232a15.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_bfafcb99-32f1-4310-a844-a0a0231afdbe___Crnl_L.Mold 6643.JPG_35149ff3-6330-4243-83cd-314975a92096.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_d2c889b0-0223-4e09-9d9f-cdf019b65120___Crnl_L.Mold 8631.JPG_8ec18fbb-eb99-4e2c-b6a1-29ad8d86d925.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_d662ce55-855f-4af0-84ef-6e0d9e5e468a___Crnl_L.Mold 6586.JPG_1a794801-ec00-4856-8da7-c3c42ad79389.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_df78e8cb-8fc5-4682-ab5c-f265b4e8d97e___Crnl_L.Mold 8619.JPG_2db79106-e6cb-4e55-aae4-6de0ed7af576.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_e5a3c9fd-64a6-426f-a0a0-2fd28a7852d0___Crnl_L.Mold 6575.JPG_4fd4d555-e0eb-4d90-ab1a-edcc6efbf3b2.JPG,Tomato___Leaf_Mold,3,False,True,0
+test/Tomato___Leaf_Mold/Tomato___Leaf_Mold_original_f59fc67c-3f69-4dd5-b4f5-370cb8ed71da___Crnl_L.Mold 6788.JPG_0ad2ee9b-01c3-4187-bdeb-b6af17479bea.JPG,Tomato___Leaf_Mold,3,True,True,0
+test/Tomato___Septoria_leaf_spot/00f16858-f392-4d9e-ad9f-efab8049a13f___JR_Sept.L.S 8368.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/06225525-413e-411b-a503-85e8dc6050a8___JR_Sept.L.S 8351.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/0650f176-add9-444e-893e-707969054a43___JR_Sept.L.S 2722.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/0751d5c2-c59a-4c96-b348-2a9d3c8c8333___Matt.S_CG 6845.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/0806cabf-f026-43bd-a508-0e8e5a185341___Matt.S_CG 1266.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/0b4886e5-a065-44c1-aa19-bd166922d3de___JR_Sept.L.S 8498.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/0ef9804e-d695-40e4-8950-08551255fa05___JR_Sept.L.S 8540.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/12703385-4e74-4e56-b90a-fede2827fbf2___Matt.S_CG 6039.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1747b1ad-eb6e-457b-a979-cead92fc123e___Matt.S_CG 7591.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1ad425d4-caa9-44da-b99f-a951fda7ec94___Keller.St_CG 1835.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1bd1e4bf-3f5e-4954-a265-edb058f2db96___Matt.S_CG 1215.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1c1dd567-a2fd-4dc5-8034-aee3c4a259a0___Matt.S_CG 7799.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1d2e1e46-0835-4f07-bebe-edf37ade1a12___Matt.S_CG 6363.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1f01e6fc-e4a2-4f40-bd17-bb3852cef631___Keller.St_CG 1825.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/1f55c2e9-67b2-4377-a426-4932a77c3439___Matt.S_CG 7778.JPG,Tomato___Septoria_leaf_spot,4,False,False,0
+test/Tomato___Septoria_leaf_spot/2240ebae-0c54-4eff-a068-1c3f58ee05a7___Matt.S_CG 1035.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/2258389b-40c1-4d0e-9675-d7ea31239390___JR_Sept.L.S 8436.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/28658cdf-b9a4-4f11-8e50-3793211600f3___Matt.S_CG 6487.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/2a7760ee-1b7c-437d-8f47-b6a65c6a3d9c___JR_Sept.L.S 2569.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/2a803f39-ff07-4e5d-aabc-4941aaa81472___JR_Sept.L.S 2458.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/3074b681-d17e-4c2d-85a0-6e5d207aa888___JR_Sept.L.S 8516.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/33955624-749a-442a-bf18-6d7a21130d72___JR_Sept.L.S 8398.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/3823a859-7570-4196-abf7-64f102d55f8d___Matt.S_CG 7740.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/43660e03-52a8-4451-bcd4-3b4806be2276___Matt.S_CG 6721.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/48639343-37ad-43b5-bd50-64db51b08212___JR_Sept.L.S 2665.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/51327622-586d-47db-9c80-e1c0289bb0b1___Matt.S_CG 6450.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/5418736d-c947-4cdc-b82c-692de712880a___JR_Sept.L.S 2619.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/554209e0-920f-49d5-b18b-ca120637ef79___Matt.S_CG 6770.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/57628952-daac-46fc-950e-f57e3b418703___Matt.S_CG 7653.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/62983399-98ab-4972-905b-85582d226b03___Matt.S_CG 7823.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/636308e1-3416-420b-90c2-b595a7dbcc6e___JR_Sept.L.S 2677.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/648d66b5-7f12-4baa-beba-4938ede59013___JR_Sept.L.S 2625.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/698e5bfc-c6fe-4562-8b7b-3398b351e175___Matt.S_CG 7768.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/698e8882-1c94-496e-a920-1cfbf5bb25ae___JR_Sept.L.S 2666.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/708cabe9-6a4e-4151-a32e-57a4bd910fa2___Matt.S_CG 2562.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/748290c1-48f9-46ab-bf30-70db00d1aa76___JR_Sept.L.S 2547.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/750103c8-a938-49a6-b8af-71eeb7596acb___Matt.S_CG 6872.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/792ed9e1-9911-4fd6-9202-931d7d6e4fd9___Matt.S_CG 1095.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/79962b01-7b73-4486-b91e-a7ec898b8156___Matt.S_CG 6635.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/833718f3-b599-4fc3-b7da-fb60c9a0d190___Matt.S_CG 0934.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/85078c60-8c80-4e59-844c-351693a46cbe___Matt.S_CG 2736.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/867fb710-fcd0-407b-ae58-1f04eb1db822___JR_Sept.L.S 2535.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/87106385-3a72-45ed-bb0f-8d4e8e1c7aeb___JR_Sept.L.S 8365.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/906be65e-a9f5-4ea9-bb47-4706aa2bf180___Matt.S_CG 7526.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/9190b657-36a1-44b5-811d-e47093babc6b___Matt.S_CG 2554.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/920f7311-a00a-421f-8c93-f2e84dddd9fa___Matt.S_CG 2540.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/932b6ab7-9d96-43ec-9e7b-e2b0508d8a1e___Matt.S_CG 1596.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/93803782-3190-4a41-98a3-1c2712ca8571___JR_Sept.L.S 2704.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/939b8ab2-3d4d-4ee3-8677-18e29f2f8bc3___Matt.S_CG 1651.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/944d1a18-653e-4f97-9ecb-ed8de360de7a___Matt.S_CG 0663.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/9472f447-6fe5-40f2-a25a-847323e8ca6c___JR_Sept.L.S 2624.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/947633cb-9ba7-4703-9afa-9fde8ad25888___JR_Sept.L.S 2539.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/947797d8-4187-4401-920a-79f7cbb6f509___JR_Sept.L.S 8381.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/952f14ea-6697-4361-897f-a3123c69b7e4___Matt.S_CG 2790.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/962119e0-4165-4c4e-bf7e-fd68f89e4e6b___Keller.St_CG 2016.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/965adbc7-971b-49a3-8bea-be05886c959c___Matt.S_CG 1498.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a14b1dd0-e8ce-4c8c-82ff-0196c8507c14___JR_Sept.L.S 2522.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a1769cf0-7a8b-480e-865e-608b5e14534f___Keller.St_CG 1893.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a35eec16-f8d0-4caa-8c5a-d4f05658e287___Keller.St_CG 1952.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a885be53-67e7-4897-b0ee-179971cd7976___Matt.S_CG 1642.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a88b5b36-20f8-4a92-82c7-4f0fa1775ba6___Matt.S_CG 7438.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a8db14be-ab96-44bb-ae9c-fb3df15fb93e___Matt.S_CG 1063.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/a9f7e7d6-cb65-4fcf-961d-7a7900bbed6d___Matt.S_CG 7758.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ab772665-1f53-48d3-997b-920c0b2b385f___JR_Sept.L.S 2661.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/abdebe47-6f94-4284-a9c9-4bbf78eeb7c7___Matt.S_CG 1274.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/acad88d8-7497-4067-abba-8171911fb6c1___JR_Sept.L.S 8448.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ae6a7d48-2026-4e14-b16d-1e0302f39328___Matt.S_CG 2591.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/aef1351a-7949-4ab8-bc46-3a6522535f8a___JR_Sept.L.S 8450.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/af9854ba-74f8-4e12-a24a-dd166484ff6b___Matt.S_CG 0696.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b018d1a5-ff83-4585-9461-ad60bf24b985___Keller.St_CG 1875.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b1dfed90-caa1-4fb9-a8ea-627a290403a3___Matt.S_CG 7538.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b21a2dc2-f8ba-495e-a93f-9dd1f5d51b4b___Keller.St_CG 1967.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b2a295e0-c517-4602-a97f-1251f008495f___Matt.S_CG 6352.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b3d8a315-c414-40b7-81d5-c86c39104884___Matt.S_CG 7668.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b40312b0-86be-4acf-b2cc-747c7ef4ff35___Matt.S_CG 7469.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b48a9db6-ca84-4941-8f00-5f22065fc0c2___Matt.S_CG 1730.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b70cc78f-739a-4db0-956c-5150284651bd___Keller.St_CG 1959.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/b8761d9f-9f66-4e83-a712-507e05010403___Keller.St_CG 1806.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ba03e414-81d2-44ec-ab16-bf279266d531___Matt.S_CG 2697.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/bac5c7de-e097-4d75-89a9-0b0f6343ad52___Matt.S_CG 6607.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/bb3dc68f-0ade-4bb8-8c27-e2ff3529a20d___JR_Sept.L.S 2671.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/bcb7e120-e71a-4fd2-9e89-91631c0b5dcd___Keller.St_CG 2044.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/bd7932fa-8fda-4370-baaf-c3b7cef2ac13___JR_Sept.L.S 2572.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/bdaa50fa-956a-4452-8c8c-c846fbcc7b19___Matt.S_CG 1406.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/be9ab6a4-83d9-4039-81ba-55b2685fe74c___Keller.St_CG 1785.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/be9f9ef4-fd2d-402c-bf79-79fb062b7b59___JR_Sept.L.S 8512.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c1b56e67-0402-4f5a-8b7d-a0aec49b875a___Matt.S_CG 2580.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c237bdbd-ca4e-4cd8-b1bc-77b0511944da___JR_Sept.L.S 2606.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c4c91080-210d-432d-8536-bf5a2e361528___Matt.S_CG 2866.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c4ffa72c-748c-4697-9034-75abe541f5c7___JR_Sept.L.S 2472.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c55b187d-939e-4394-8306-d310764c30f6___Matt.S_CG 2479.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c5806b61-685f-43a2-a5af-c8c9f086e7ea___Matt.S_CG 1244.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c6d86577-e132-46f6-8f49-5085daca84b4___Matt.S_CG 6200.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c7b40855-4938-49bd-9b74-02d3cb06c1a3___Matt.S_CG 6555.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c94d284d-8bc7-42ac-a1d0-392f622d5d59___JR_Sept.L.S 8499.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/c9ae9fb3-4504-4a1c-8abd-e4e3ca22f707___Matt.S_CG 2720.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ca8982f7-f569-4f25-a4c5-7a4090d8418f___Matt.S_CG 7461.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ca93b31d-6ade-47db-a05a-312fc23b5e5e___Matt.S_CG 5988.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cb6929ff-8e9b-42f2-97d4-ec388a5a6b06___JR_Sept.L.S 8461.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cc2256d7-6e78-4597-a532-e698af7fd12d___Keller.St_CG 1924.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cc997e01-8e1e-4d98-973d-d8a6e9703840___Matt.S_CG 6576.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cd6c24ea-037a-4d83-b2c8-24616da8ff46___Keller.St_CG 1883.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cded6e08-aa66-43bc-a190-3d83a229b273___Matt.S_CG 1564.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cf72fe62-8411-4b4e-b4df-98c6683c00ca___Keller.St_CG 1816.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/cffae6ca-ff80-4c1f-9fbf-451d39a94a80___JR_Sept.L.S 8518.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d1787912-126a-44a6-bb47-66574fd44f4a___JR_Sept.L.S 8388.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d2418bf8-8dfb-4a48-b3df-0f1acf515dfd___Matt.S_CG 7455.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d2b21778-763d-4333-be05-50e71a8738cd___Matt.S_CG 1083.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d32e7797-bc8e-4042-a170-bb2d2a415d75___JR_Sept.L.S 8399.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d40f02b5-280d-49f7-8aad-a3379e2fbd07___JR_Sept.L.S 2474.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d5244d08-ddff-4848-8685-2d06caf4cbfa___Matt.S_CG 0748.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d5a1e4e1-f646-408e-b0af-e64262e492d8___Matt.S_CG 0884.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d645a5d8-a404-4825-8be7-a15725ee26d8___Matt.S_CG 2629.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/d67b224c-b089-430d-b185-dfae7b7a5a9e___Keller.St_CG 1950.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/da1f93df-82fb-47a9-9582-d2dadb97a2a0___JR_Sept.L.S 2649.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/db085918-0f2d-425a-8b10-ed5b7e6e4eb4___JR_Sept.L.S 2531.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/db0bfb90-238c-4623-a88d-895868adb0ba___Keller.St_CG 1887.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/db3eb90c-cdbe-42d5-8822-5ed9cbda10fa___Matt.S_CG 1455.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e01fb0f4-3cd3-4b02-8672-56cac700eeae___JR_Sept.L.S 8391.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e315bc15-63a0-402f-adda-bdd0c8ba938d___JR_Sept.L.S 2629.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e32420bf-2fb6-43ae-8b09-eb7aa6862a23___Matt.S_CG 6139.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e398668b-1722-455b-ab4e-a2be1203c7d6___Keller.St_CG 2001.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e3c7fc0c-77a2-4980-b101-489cd08a768e___JR_Sept.L.S 2652.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e479d798-59a4-4ee7-ac68-730316ec65c1___Keller.St_CG 1776.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e4ceb8ee-4b09-4013-b423-84e27744b7a0___Matt.S_CG 0863.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e55e5031-3f13-4784-b8fc-6663323fc073___Keller.St_CG 1877.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e6d9f6dd-1349-4d66-8bae-7be416b48d15___JR_Sept.L.S 8360.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e7b22345-5249-429d-af6a-459d4c9a91b1___Matt.S_CG 1655.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/e9d6c8b2-2174-4f01-ad8a-ef6a8ed1cfb7___Keller.St_CG 1993.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ea4c1935-bc73-4e5f-9f31-eb9f7a22fbd4___JR_Sept.L.S 2537.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/eaf8a135-3d77-422c-8f37-befb5cfcb8a0___Matt.S_CG 1728.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/eb26346a-ab63-4741-aad4-c84c36d17d5e___JR_Sept.L.S 8440.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/eb2645d0-da20-4318-b676-ea0001a76357___Matt.S_CG 1017.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/eb6133d1-f0d9-4529-8949-c60b1deb5585___JR_Sept.L.S 8396.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ec167921-a25d-413f-b73c-5c72cc270433___Matt.S_CG 2682.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/edf85df7-a005-4b99-8ac9-20ebcd094098___Matt.S_CG 6074.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ee3205cd-bafb-416b-b560-caef5586b96c___JR_Sept.L.S 2540.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ef52809f-d100-4e76-82b6-6091dc98deae___Matt.S_CG 7781.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ef9c5aec-0f5e-42d3-8d37-9e1da11ead91___Matt.S_CG 6633.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/efb0fe31-821d-4259-8daf-495b04f0a0d1___JR_Sept.L.S 8503.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/efbf830b-2408-403e-8fa0-86e22942b437___Matt.S_CG 6549.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/efd5cf0c-f431-4190-911f-edfbcad47c2b___Matt.S_CG 6019.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f04c7577-d02a-4b57-861e-f50fa800ca85___Matt.S_CG 7787.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f271416e-cf7c-4683-bd74-c5a32e8ef82c___JR_Sept.L.S 2682.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f285de60-b746-43c9-8891-133dce784b44___Keller.St_CG 1788.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f313bc43-c255-4921-acf9-335322107c45___Keller.St_CG 1864.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f435fe48-700f-4595-940c-827f9fff5e92___Matt.S_CG 1409.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f5f9f526-893f-467f-8345-75f707456b3a___Matt.S_CG 7511.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f7f15148-b2f9-4b26-b94c-745e0325f872___Matt.S_CG 6244.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f83c5c25-a744-4f98-b2b3-1c1138759929___Matt.S_CG 0808.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f8a1deca-75ae-41cf-bd05-1eee4a183236___Keller.St_CG 1779.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/f9b31399-e5b4-4573-9fd3-9bf2079478c5___JR_Sept.L.S 2723.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fab1ca61-1ab4-4e27-9c15-a48eeacd2959___JR_Sept.L.S 2617.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fbbb5586-8b52-4701-9655-3748510df6f8___JR_Sept.L.S 2534.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fc963fa5-7179-402b-95e7-018c2837d2c1___JR_Sept.L.S 2706.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fcbdd052-d481-4db7-ad82-f98bdfc7cc1c___Matt.S_CG 7462.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fcd7b23f-81f6-4e31-9c8f-66dc04a44f2c___Keller.St_CG 1826.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fcda5137-4f0a-4734-89a5-13d5bd119942___Matt.S_CG 7550.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fdbf1c22-520c-4537-9f20-76f52fd4ae35___Matt.S_CG 6550.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fe52e26e-bc93-4c6e-a5e1-5301c8b34238___JR_Sept.L.S 2707.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fef6e580-b1a6-4093-829d-73472fc5c9f9___Matt.S_CG 7545.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/ffbb4b17-6760-48fd-bbfa-70120a53db86___Matt.S_CG 1284.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/fffee500-8469-4c0f-a17d-d95c5516b446___Matt.S_CG 6210.JPG,Tomato___Septoria_leaf_spot,4,True,False,0
+test/Tomato___Septoria_leaf_spot/Tomato___Septoria_leaf_spot_original_1ab6abd3-f48e-4176-9871-84e611f5b53f___Matt.S_CG 1363.JPG_6d7f640c-7177-41df-937e-52b1d233e44b.JPG,Tomato___Septoria_leaf_spot,4,False,True,0
+test/Tomato___Septoria_leaf_spot/Tomato___Septoria_leaf_spot_original_1f8a9dd1-e501-430d-9c80-7eaf0904961c___Matt.S_CG 2477.JPG_143c8c93-66d7-4f14-9cbb-1c27c2bb9c8f.JPG,Tomato___Septoria_leaf_spot,4,False,True,0
+test/Tomato___healthy/003944fc-3b99-4a0f-9ed4-0e07352fd8b3___RS_HL 9844.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/0894c925-d193-412f-961d-d188b57ee337___GH_HL Leaf 393.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/0920bfd6-6c70-432b-be33-cccb6abb0f31___GH_HL Leaf 181.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/0d70d565-520e-474c-85c1-ab478c9f1d4b___GH_HL Leaf 203.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/0e3feb72-86e5-41c2-a7ca-3295800e5777___RS_HL 0158.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/0f0fc0ee-b19b-4f90-ab41-8f693131f57d___RS_HL 9890.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/0fd3432a-e22a-4a71-9a63-1c56ee4ce067___GH_HL Leaf 463.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/115c8bc1-06b9-4679-9159-46e5640c39e7___GH_HL Leaf 206.2.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/1457ca6a-4907-4c97-83f8-a0fa22135a27___RS_HL 0441.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/16927ddc-fc87-4ff2-b450-1edc2b4c6191___RS_HL 0051.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/170e86b9-f51d-49a6-a992-15e00c85ee5d___GH_HL Leaf 189.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/190a6af7-d7b1-4265-b05b-c126a7962c93___GH_HL Leaf 408.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/1ad550a2-113e-440c-919d-85dff2f4de38___RS_HL 0331.JPG,Tomato___healthy,5,False,False,0
+test/Tomato___healthy/1b855a60-d30c-4ed9-8f25-cffe523b436b___GH_HL Leaf 249.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/1c092a12-ed60-42c8-86b4-0427db78a5d3___RS_HL 0076.JPG,Tomato___healthy,5,False,False,0
+test/Tomato___healthy/1cb9d4d1-280b-479c-95a9-01f71acf70bc___RS_HL 0641.JPG,Tomato___healthy,5,False,False,0
+test/Tomato___healthy/1dae303e-6545-4c87-8c95-8805108f5282___RS_HL 0437.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/1e1aa3d8-d12f-47e1-b316-b8656ab3f2b6___RS_HL 0075.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/225003c5-d8a1-48ce-b315-42df4b99c51a___RS_HL 0464.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/237ec7d7-d96f-434d-8a94-250ec92c8e86___RS_HL 0457.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/2605218e-e8bf-43d8-8b00-52058e9f0f25___RS_HL 9893.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/267fd403-bea5-4a99-ae97-ea1c272623a1___GH_HL Leaf 440.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/2996b910-fc94-43ef-99b3-efc0ae494872___RS_HL 0410.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/316e62fa-d8a8-4451-80a8-a546c8c43511___RS_HL 9633.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/3200dbab-2da4-49c9-bd74-34d67e763b22___RS_HL 0562.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/32622151-b281-4603-9d7f-cf5df8201e4c___GH_HL Leaf 171.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/3280ef48-8260-4a34-8e37-e079b74ed160___RS_HL 0392.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/3767f857-a7b6-4801-b56e-b62e642fc508___RS_HL 0425.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/399440f9-8e5f-4be7-805c-53c10636a9b2___GH_HL Leaf 332.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/4022afd0-756b-4f07-9a8a-3cdf425d0cc5___RS_HL 0134.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/414359b9-153b-4985-bfe0-eaf22f7ff6ab___RS_HL 0062.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/4184da3b-ccbd-4880-9aa7-dbb868a7f571___GH_HL Leaf 355.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/438c4ac5-5409-4859-9fe4-3077af7425b2___RS_HL 0157.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/4565ba85-5676-49cf-beac-79832cd30067___RS_HL 0639.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/4715a717-ed38-43b7-9ee1-4f83fba00743___RS_HL 0005.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/4806eef9-06a4-4da8-9327-939641fbb260___RS_HL 9692.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/5044fab8-1e1b-4f9c-a477-3ee8497d0c75___RS_HL 0287.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/522cba8a-8cf7-4d39-a73e-0602ab6fc71f___RS_HL 0288.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/525c2813-206e-40ee-80a2-83b56ef45b13___RS_HL 0547.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/5393abd2-b4e2-4af2-94d4-c52c919fc157___RS_HL 0322.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/5630c5b1-a956-4a34-879a-eb1cb89d22d1___RS_HL 9806.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/568ae2e1-f63e-40f1-ac27-dac9fea86277___GH_HL Leaf 246.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/591c89ff-a75f-4613-b06d-4f3fbf6c426c___GH_HL Leaf 435.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/6200ddc6-ea83-42e0-9936-4f82cfa14a1f___RS_HL 9976.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/622ed31e-0067-460a-a025-fefea1669ce1___RS_HL 0587.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/668e811e-7b65-404e-9bc5-6519efb1c708___RS_HL 0160.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/7181181c-b571-4cf0-80c3-c52bd785ccf9___GH_HL Leaf 218.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/73815ecf-ee85-4bba-864f-f47d01a96615___RS_HL 0348.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/787fe2db-da4f-4655-bbb7-6fd8025feffe___RS_HL 9795.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/7919a8c4-0eb1-477f-8534-fc8841245cf7___RS_HL 0538.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/81024038-40ff-40c4-b8f4-4a48b08032e4___RS_HL 0301.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/824d057f-080b-4b9e-ae96-e91d5bdf3b98___RS_HL 0380.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/84eb25b9-4855-4fde-9a2c-28c2de1bfb22___RS_HL 9680.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/870b4923-2db1-4e01-827b-fbea6ed404cb___RS_HL 0164.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/87d30769-5aea-4648-8105-788267115242___GH_HL Leaf 414.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/8809940a-a097-4488-9e49-3ffdc10d8d9a___GH_HL Leaf 245.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/8858ed06-2e1b-4a4a-bd16-e4425ae62312___GH_HL Leaf 523.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/89662229-ef90-4f4a-ac7a-74542f88377d___GH_HL Leaf 495.3.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/9022a9e2-3161-4d34-9c83-e3e72d8154a1___RS_HL 0233.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/918886d9-62bf-46a4-97f9-0afe76641b25___GH_HL Leaf 365.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/9266e5f5-ab7a-461a-836d-fa03f1669a6a___RS_HL 9810.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/9299f3e8-15ee-4cf2-997a-058bb19900a5___RS_HL 9781.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/92c06519-cec4-4091-9ae1-5ea8b56c89cd___GH_HL Leaf 525.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/930bcd42-1c53-414c-94e5-8b270920ed68___RS_HL 0156.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/93807606-0aed-435b-adb2-cf303a7d586e___RS_HL 0135.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/956eb0b5-8dae-4315-9cea-320dc594b864___RS_HL 0221.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/958b8eb8-7004-434a-ad02-e62ff64dded0___RS_HL 0276.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/96d85e53-b980-42f7-8e3d-cd6f7ec9c287___GH_HL Leaf 520.5.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/991e23a3-fcbf-492b-8972-625779855b0e___RS_HL 0486.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/99330465-d609-4f9b-b1cf-da0410f6122c___RS_HL 0388.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a1414092-da7c-4e7e-9b25-6fb76e07285b___RS_HL 0247.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a1aa732c-1c39-4c6b-b5d1-e0ea7a8587a5___RS_HL 0565.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a3971959-8544-4a34-95a2-d1b6a7a390af___RS_HL 0265.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a3e61ed6-3c67-48d7-af39-9a69b2c5c7bc___GH_HL Leaf 250.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a424fe57-c3ff-400e-ac88-000ca1781300___RS_HL 9802.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a54804c7-1bc2-439a-a09f-3d1a6ce81856___GH_HL Leaf 309.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a5e54e01-2cd5-482a-bfba-8728ca32473c___GH_HL Leaf 426.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a81e6fb8-3b9f-4b20-be65-b0650a3eee33___RS_HL 0514.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a882bb71-3c0f-4778-94db-9a228cfe619a___RS_HL 0095.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/a8fffa7c-14eb-4b8c-8628-7349dd2a4561___RS_HL 9925.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/ac249839-fe21-45cd-9e09-f0023fa7ee3a___GH_HL Leaf 273.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/adeea527-67a9-4426-8b18-221fe085fe87___RS_HL 0008.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/af78f888-bd62-44bb-8223-6be0cf0950fc___GH_HL Leaf 491.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/afbedba8-4d3a-4816-9c55-bd666d262b59___RS_HL 9841.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b208c306-c151-4941-85f0-47735d9b6984___RS_HL 0263.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b286becf-e2d6-4269-aaf4-e2df25c80cba___RS_HL 0355.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b3813caa-82f2-4b9b-a5ef-a9f0db6f08bf___GH_HL Leaf 466.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b4a648b8-4132-4bfa-9a7d-13c1a8696c9b___GH_HL Leaf 295.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b5453c78-26b4-40ef-a460-c878eb82fcea___RS_HL 9968.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b5f50782-f831-4b0c-821d-3d60879b4758___RS_HL 0064.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b6fa2d79-dac1-42c6-a074-9d013843bb11___GH_HL Leaf 276.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b840daeb-319f-4cf3-b2a0-3010387fd5d3___GH_HL Leaf 493.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b842ca3c-1910-4ff3-8691-c7759830651a___RS_HL 9784.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b8b8bef0-e86c-47ae-ba47-7912b10beffe___GH_HL Leaf 302.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b951fffc-404c-4b85-a7ec-fe8b4f9a15fa___RS_HL 0540.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/b95435ea-5649-465e-83cc-247d1ab11b54___GH_HL Leaf 203.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/bc339a85-6c4e-428a-a18e-9174acdcab1e___RS_HL 0513.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/bc36c64a-8e37-4275-80e9-81431c4ba98f___GH_HL Leaf 184.2.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/bc3ca9e1-86c1-4945-9993-c61a38a942ed___GH_HL Leaf 294.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/bc5e650e-075e-4359-9f31-79cd0ef3208b___RS_HL 9807.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/bd4111eb-69bf-44b7-b02c-13477b5dc8e1___GH_HL Leaf 357.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/beaa693e-fa0d-4bde-943a-0a834f251301___RS_HL 0290.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c09f9b09-e43d-46bd-96d7-bb1162b4bb52___RS_HL 9644.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c14e3118-373b-4164-8f54-6c4239908d0f___GH_HL Leaf 488.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c25ca040-07f4-4882-b5c9-e8083ba994a2___GH_HL Leaf 417.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c58defb7-5515-4b89-896f-13039c13051f___GH_HL Leaf 372.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c6acee22-6c56-41a8-ae90-26c6064e0261___GH_HL Leaf 468.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c8ecc9a2-c12b-4350-8b3f-451c85d8e08b___RS_HL 0400.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c90b9b00-dbfe-4481-b643-861fcd59c536___RS_HL 0598.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c910ce6d-8dd7-4c9f-9530-dd26684058d3___RS_HL 9697.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/c9bc09dd-7a19-46b6-ac5a-d857d50f0e5c___RS_HL 0484.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/cb262ab1-f96f-4ade-80e9-d7fa2d5f9c9d___RS_HL 0361.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/ce56d8ec-bfd5-4755-8010-c42658f8d597___RS_HL 0090.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/ce9a5c21-e77d-4db4-baa3-d03c24e360b0___GH_HL Leaf 281.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d030352a-d87f-4ee2-a619-bc68d9896004___GH_HL Leaf 197.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d19a7818-769b-4633-bd09-5c3c20d2b4d1___GH_HL Leaf 172.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d2a7358e-6ba9-46ed-b5fd-5ba0fd1175f4___GH_HL Leaf 307.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d30f0e3c-7246-455d-959c-6221eac22dfd___GH_HL Leaf 202.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d454ff7e-7a9d-45c1-b7f1-d098edcb1fa7___RS_HL 0418.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d4fc1abf-fd0d-4625-9882-36acd3755ede___RS_HL 0307.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d6e75b4e-377f-4d9a-b2a5-d0fcd5ec32b8___RS_HL 0177.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d95cca34-6952-4d22-9d61-6304dcce3448___GH_HL Leaf 280.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d9756e4c-11ac-4c09-8a3c-4938d56bfc1e___RS_HL 0488.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/d9a6af00-1c5a-4299-9bad-b922c8b5c33e___RS_HL 0546.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/da3e3bf7-80da-479b-99f1-f86f18d8a264___GH_HL Leaf 511.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/da7db6e5-d5d5-489a-b1b2-9b3a880cebaa___RS_HL 9769.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/dd50e041-1df0-45e4-8ab7-126f0ae2b984___GH_HL Leaf 270.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/dd7d8e47-35f8-4c97-900b-f095694c38ed___GH_HL Leaf 313.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e020155a-f93a-496c-adc6-1810b4cea333___GH_HL Leaf 206.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e1400c81-62df-44b6-97fd-e210b66dae0b___RS_HL 9672.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e1517f9b-6bab-415b-b8f5-1f52dd544b2d___RS_HL 0203.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e1860bf2-2656-4dba-b9de-f80932bca552___RS_HL 0398.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e1959167-b7b2-49e3-b5ce-4c5665022ada___RS_HL 0127.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e1aeb847-e87b-4f24-aca7-c6e06b6c07ca___GH_HL Leaf 185.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e2991a66-412d-4841-8dc0-524e38338a82___GH_HL Leaf 517.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e30f24b2-c298-4853-8fda-9e67b3738a55___GH_HL Leaf 287.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e435f5af-a994-46b5-a5c8-d721dd1788f8___RS_HL 0100.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e47d2178-aaf3-438b-bcce-2fcb6efd833b___RS_HL 9924.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e67fdf04-f0a3-4351-b65d-a1b7362fc032___GH_HL Leaf 304.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e6d12c88-7d13-4b26-ada8-c5b34ccc77a5___RS_HL 0435.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e6f3e3b6-8d73-4564-9e0b-771302aaa6ef___RS_HL 0626.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e73f62f9-46f5-4827-a891-169cd96e066e___RS_HL 0467.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e9392a5e-2fac-48c5-a23d-df3aa3f61048___GH_HL Leaf 217.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e969c25d-8cc4-4730-a65b-330cd4d38c9a___GH_HL Leaf 427.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/e9dbb60b-ba84-43c7-a1cc-55ce4712e892___RS_HL 0404.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/ec754608-21ce-40be-abd0-46a664257065___RS_HL 0376.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/edbb09c6-f6e6-4ce4-ac38-e4fa0b96f4c0___GH_HL Leaf 251.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f0037c61-001d-4b1f-b794-5b5ab49d50d5___RS_HL 0527.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f0068af9-0c54-4a08-8cf1-3890bead99d0___RS_HL 0336.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f0cc7028-bf33-4ed4-8df0-7f1e80f42d15___GH_HL Leaf 266.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f1e20811-da4e-4f0f-b8ee-f325d90f6481___RS_HL 0084.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f2f5162b-7cc7-4315-8692-d1eaab98c554___GH_HL Leaf 507.2.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f62d9b06-1625-4277-9347-0f3097c41fcf___GH_HL Leaf 518.2.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f6884753-9a44-4f1c-a99b-ef40faa2df5a___RS_HL 0492.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f7d044c0-6900-4624-9c20-fa27aa0911ff___GH_HL Leaf 275.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f7df2411-8e50-46e1-b43a-cca357bee1af___GH_HL Leaf 521.1.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/f81def4f-22a7-4036-bfab-51b245f4a2ab___RS_HL 0055.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/fab41c44-a8b6-4821-8ffa-08a2c1234970___RS_HL 0070.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/fb2c7e00-39a7-4be3-b8d1-b4c42c65e20e___RS_HL 9636.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/fe0b76dc-4263-4cda-8840-310ebe72a432___GH_HL Leaf 490.JPG,Tomato___healthy,5,True,False,0
+test/Tomato___healthy/Tomato___healthy_original_0a86ddc0-4950-4efc-9260-0f16d4db046b___RS_HL 0469.JPG_c1e1637a-7175-4409-9597-bda317775bc8.JPG,Tomato___healthy,5,False,True,0
+test/Tomato___healthy/Tomato___healthy_original_0e3feb72-86e5-41c2-a7ca-3295800e5777___RS_HL 0158.JPG_2b2149e1-d1de-4d18-bf8e-35b5b55ad192.JPG,Tomato___healthy,5,True,True,0
+test/Tomato___healthy/Tomato___healthy_original_0f20443a-193e-46b1-aea9-7ea614eb98ec___RS_HL 9850.JPG_24e11315-48ac-4c79-a7af-a8023937a016.JPG,Tomato___healthy,5,False,True,0
+test/Tomato___healthy/Tomato___healthy_original_1c092a12-ed60-42c8-86b4-0427db78a5d3___RS_HL 0076.JPG_7761e96d-38f3-4b01-b520-8784552c0484.JPG,Tomato___healthy,5,False,True,0
+test/Tomato___healthy/Tomato___healthy_original_1ddf5950-e27f-4928-8f4e-33242953e306___RS_HL 0181.JPG_a22a8359-6a7f-4de3-b97e-635ebf191803.JPG,Tomato___healthy,5,False,True,0

@@ -1,0 +1,25 @@
+run,modelo,clase,precision,recall,f1,soporte
+dummy,Dummy (mayoritaria),Tomato___Bacterial_spot,0.1828,1.0,0.3091,166
+dummy,Dummy (mayoritaria),Tomato___Early_blight,0.0,0.0,0.0,132
+dummy,Dummy (mayoritaria),Tomato___Late_blight,0.0,0.0,0.0,163
+dummy,Dummy (mayoritaria),Tomato___Leaf_Mold,0.0,0.0,0.0,126
+dummy,Dummy (mayoritaria),Tomato___Septoria_leaf_spot,0.0,0.0,0.0,163
+dummy,Dummy (mayoritaria),Tomato___healthy,0.0,0.0,0.0,158
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),Tomato___Bacterial_spot,0.976,0.9819,0.979,166
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),Tomato___Early_blight,0.9209,0.9697,0.9446,132
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),Tomato___Late_blight,0.9321,0.9264,0.9292,163
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),Tomato___Leaf_Mold,1.0,0.9683,0.9839,126
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),Tomato___Septoria_leaf_spot,0.975,0.9571,0.9659,163
+svm_hsv_lbp,SVM HSV+LBP (baseline C1),Tomato___healthy,1.0,1.0,1.0,158
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),Tomato___Bacterial_spot,1.0,1.0,1.0,166
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),Tomato___Early_blight,0.9851,1.0,0.9925,132
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),Tomato___Late_blight,1.0,0.9816,0.9907,163
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),Tomato___Leaf_Mold,0.9844,1.0,0.9921,126
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),Tomato___Septoria_leaf_spot,1.0,0.9939,0.9969,163
+resnet18_finetune_lr0.0003,ResNet-18 FT (modelo final),Tomato___healthy,1.0,1.0,1.0,158
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),Tomato___Bacterial_spot,1.0,0.994,0.997,166
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),Tomato___Early_blight,0.9925,1.0,0.9962,132
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),Tomato___Late_blight,0.9939,1.0,0.9969,163
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),Tomato___Leaf_Mold,1.0,0.9762,0.988,126
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),Tomato___Septoria_leaf_spot,0.9879,1.0,0.9939,163
+mobilenet_v3_large_finetune_lr0.0003,MobileNetV3 FT (alternativa),Tomato___healthy,1.0,1.0,1.0,158
